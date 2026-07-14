@@ -1,15 +1,17 @@
 import Box from "@mui/material/Box";
-import ExchangeRatesButton from "./ExchangeRatesButton";
-import HelpButton from "./HelpButton";
+import ExchangeRatesButton, { ExchangeRatesButtonProps } from "./ExchangeRatesButton";
+import HelpButton, { HelpButtonProps } from "./HelpButton";
 import OpenCartButton, { OpenCartButtonProps } from "./OpenCartButton";
 
 
 interface ButtonTrayProps {
+  exchangeRatesButtonProps: ExchangeRatesButtonProps
+  helpButtonProps: HelpButtonProps
   openCartButtonProps: OpenCartButtonProps
 }
 
 
-export default function ButtonTray({ openCartButtonProps }: ButtonTrayProps) {
+export default function ButtonTray({ exchangeRatesButtonProps, helpButtonProps, openCartButtonProps }: ButtonTrayProps) {
   return (
     <Box sx={{ 
       position: 'fixed', 
@@ -25,11 +27,12 @@ export default function ButtonTray({ openCartButtonProps }: ButtonTrayProps) {
       transform: 'translateY(-50%)',
       backgroundColor: '#a0c9c933',
       borderRadius: 1,
+      zIndex: 1000
 
     }}>
-      <ExchangeRatesButton />
+      <ExchangeRatesButton {...exchangeRatesButtonProps}/>
       <OpenCartButton {...openCartButtonProps}/>
-      <HelpButton />
+      <HelpButton {...helpButtonProps}/>
     </Box>
   )
 }

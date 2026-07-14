@@ -15,7 +15,9 @@ import DiscordJoinBar from "./components/DiscordJoinBar/DiscordJoinBar";
 import HeadFilterBar from "./components/HeadFilterBar/HeadFilterBar";
 import HeadCardGrid from "./components/HeadCardGrid/HeadCardGrid";
 import OpenCartButton from "./components/ButtonTray/OpenCartButton";
-import CartDrawer from "./components/ShoppingCart/CartDrawer";
+import CartDrawer from "./components/Drawers/ShoppingCart/CartDrawer";
+import HelpDrawer from "./components/Drawers/Help/HelpDrawer";
+import ExchangeRatesDrawer from "./components/Drawers/ExchangeRates/ExchangeRatesDrawer";
 
 import './App.css'
 import { Draw, Shop } from '@mui/icons-material';
@@ -49,7 +51,7 @@ function App() {
   const [shoppingCartHasItems, setShoppingCartHasItems] = useState(true);
 
   const [isHelpOpen, setIsHelpOpen] = useState(false);
-  const [isCurrencyExchangeOpen, setIsCurrencyExchangeOpen] = useState(false);
+  const [isExchangeRatesOpen, setIsExchangeRatesOpen] = useState(false);
 
 
   // Load Heads
@@ -82,7 +84,7 @@ function App() {
 
   const handleClickCloseDrawer = () => {
     setIsShoppingCartOpen(false);
-    setIsCurrencyExchangeOpen(false);
+    setIsExchangeRatesOpen(false);
     setIsHelpOpen(false);
   }
 
@@ -110,6 +112,12 @@ function App() {
                 openCart: (value) => setIsShoppingCartOpen(value),
                 cartSize: shoppingCart.size
               }}
+              helpButtonProps={{
+                openHelp: () => setIsHelpOpen(true)
+              }}
+              exchangeRatesButtonProps={{
+                openHelp: () => setIsExchangeRatesOpen(true)
+              }}
             />
             {/* Shopping Cart */}
             <CartDrawer 
@@ -120,6 +128,14 @@ function App() {
               removeFunc={(head) => modifyShoppingCart(head, -1)}
               clearFunc={() => clearShoppingCart()}
               exportFunc={shoppingCart.exportData}
+            />
+            <HelpDrawer 
+              isOpen={isHelpOpen}
+              closeFunc={() => setIsHelpOpen(false)}
+            />
+            <ExchangeRatesDrawer
+              isOpen={isExchangeRatesOpen}
+              closeFunc={() => setIsExchangeRatesOpen(false)}
             />
             {/* Hero */}
             <Box sx={{ paddingY: 4 }}>

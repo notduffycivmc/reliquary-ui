@@ -1,4 +1,4 @@
-import type { Head } from "../../types"
+import type { Head } from "../../../types"
 
 import Box from "@mui/material/Box"
 import Typography from "@mui/material/Typography"

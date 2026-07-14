@@ -1,4 +1,4 @@
-import { Head } from "../../types"
+import { Head } from "../../../types"
 
 import { useEffect, useState } from "react"
 
@@ -11,7 +11,7 @@ import Typography from "@mui/material/Typography"
 
 import Close from '@mui/icons-material/Close'
 
-import ShoppingCart from '../../services/ShoppingCart'
+import ShoppingCart from '../../../services/ShoppingCart'
 
 import CartItem from "./CartItem"
 
@@ -69,12 +69,12 @@ export default function CartDrawer({ isOpen, cart, closeFunc, addFunc, removeFun
   }
 
   return (
-    <Drawer open={isOpen} anchor='right'>
+    <Drawer open={isOpen} anchor='right' sx={{'.MuiDrawer-paper': {width: '440px'}}}>
       {/* Close Cart Button */}
       <IconButton onClick={handleCloseClick} sx={{ position: 'absolute', top: '24px', right: '24px', width: '32px', height: '32px'}}>
         <Close />
       </IconButton>
-      <Box sx={{ display: 'flex', flexDirection: 'column', padding: 4, height: '100%' }} onClick={(e) => e.stopPropagation()}>
+      <Box sx={{ display: 'flex', flexDirection: 'column', padding: 4, height: '100%', marginBottom: 10 }} onClick={(e) => e.stopPropagation()}>
         {/* Cart Header */}
         <Box sx={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', marginX: 10, marginTop: 4, marginBottom: 3, gap: 1}}>         
           <Typography variant="h6" sx={{ textAlign: 'center'}} >Shopping Cart</Typography>
