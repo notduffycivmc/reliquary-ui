@@ -18,6 +18,7 @@ import OpenCartButton from "./components/ButtonTray/OpenCartButton";
 import CartDrawer from "./components/Drawers/ShoppingCart/CartDrawer";
 import HelpDrawer from "./components/Drawers/Help/HelpDrawer";
 import ExchangeRatesDrawer from "./components/Drawers/ExchangeRates/ExchangeRatesDrawer";
+import HeadViewer3DModal from "./components/Drawers/HeadViewer3D/HeadViewer3DModal";
 
 import './App.css'
 import { Draw, Shop } from '@mui/icons-material';
@@ -41,6 +42,8 @@ function App() {
   const [heads, setHeads] = useState([]);
   const [rarities, setRarities] = useState(new Set())
   const [tags, setTags] = useState(new Set());
+
+  const [selectedHead, setSelectedHead] = useState(null);
 
   const [searchName, setSearchName] = useState('');
   const [searchRarity, setSearchRarity] = useState('All');
@@ -157,7 +160,18 @@ function App() {
             />
             <Divider />
             {/* Head Grid */}
-            <HeadCardGrid heads={filteredHeads} pageSize={50} addFunc={(head) => modifyShoppingCart(head, 1)}/>
+            <HeadCardGrid 
+              heads={filteredHeads} 
+              pageSize={50} 
+              addFunc={(head) => modifyShoppingCart(head, 1)}
+              viewFunc={(head) => setSelectedHead(head)}
+            />
+            <HeadViewer3DModal 
+              isOpen={selectedHead !== null}
+              head={selectedHead}
+              addFunc={(head) => modifyShoppingCart(head, 1)}
+              closeFunc={() => setSelectedHead(null)}
+            />
             <Divider />
             {/* Discord Information */}
             <DiscordJoinBar />

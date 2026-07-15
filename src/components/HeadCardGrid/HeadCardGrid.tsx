@@ -12,11 +12,12 @@ import HeadCard from "./HeadCard";
 interface HeadGridProps {
   heads: Head[],
   pageSize: number,
-  addFunc(head: Head): void
+  addFunc: (head: Head) => void
+  viewFunc: (head: Head) => void
 }
 
 
-export default function HeadCardGrid({ heads, pageSize, addFunc }: HeadGridProps) {
+export default function HeadCardGrid({ heads, pageSize, addFunc, viewFunc }: HeadGridProps) {
   const [page, setPage] = useState(1);
   const [pageCount, setPageCount] = useState(1);
   const [filteredHeads, setFilteredHeads] = useState<Head[]>([]);
@@ -50,7 +51,14 @@ export default function HeadCardGrid({ heads, pageSize, addFunc }: HeadGridProps
         <Typography variant="caption"> {pageSize > heads.length ? heads.length : pageSize} out of {heads.length} Heads Displayed</Typography>
       </Box>
       <Grid container spacing={2} sx={{justifyContent: 'center'}}>
-        {filteredHeads.map(head => (<HeadCard key={head.uuid} head={head} addFunc={addFunc}/>))}
+        {filteredHeads.map(head => (
+          <HeadCard 
+            key={head.uuid} 
+            head={head} 
+            addFunc={addFunc}
+            viewFunc={viewFunc}
+          />
+        ))}
       </Grid>
       { pageCount > 1 &&
         <Box sx={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', mt: 4 , gap: 1}}>

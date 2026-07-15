@@ -10,10 +10,17 @@ import Typography from '@mui/material/Typography';
 import AddToCartButton from "./AddToCartButton";
 
 
-export default function HeadCard({ head, addFunc }: { head: Head, addFunc: (head: Head) => void }) {
+interface HeadCardProps {
+  head: Head
+  addFunc: (head: Head) => void
+  viewFunc: (head: Head) => void
+}
+
+
+export default function HeadCard({ head, addFunc, viewFunc }: HeadCardProps) {
   return (
     <Card
-      onClick={(e) => console.log("Head Card Clicked!")}
+      onClick={() => viewFunc(head)}
       sx={{ 
         width: 220, 
         maxWidth: 220, 
