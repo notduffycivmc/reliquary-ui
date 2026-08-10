@@ -5,7 +5,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "544283a3-4cc2-4f3e-b9b7-d599caddfc36",
@@ -13,7 +15,9 @@
     "rarity": "Rare",
     "price": 4,
     "quantity": 18,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "7e1c1434-19fc-4738-91e6-c869431aca37",
@@ -21,7 +25,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "f6422eda-b2f5-4926-95a9-74458d18a7c8",
@@ -29,7 +35,9 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 10,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "22254c8e-9dd4-43d3-9cb1-aa7e11d1edd0",
@@ -37,7 +45,9 @@
     "rarity": "Uncommon",
     "price": 3,
     "quantity": 14,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "f4a9ba3a-6c8f-47b6-967c-df29b2d0a51b",
@@ -45,7 +55,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 25,
-    "tags": []
+    "tags": [
+      "Resource"
+    ]
   },
   {
     "uuid": "56fb6e67-0d51-4a8b-9e9a-e525260b7a00",
@@ -53,7 +65,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 5,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "e62b5202-716e-42b8-830a-a90ce4a1945d",
@@ -61,7 +75,9 @@
     "rarity": "Rare",
     "price": 3,
     "quantity": 21,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "8d80ae79-61d1-4454-9cb3-7805f5bd23ae",
@@ -69,7 +85,11 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 40,
-    "tags": []
+    "tags": [
+      "Resource",
+      "Food",
+      "Nature"
+    ]
   },
   {
     "uuid": "d312c028-0b92-4eb4-989c-698ce283622d",
@@ -77,7 +97,9 @@
     "rarity": "Uncommon",
     "price": 3,
     "quantity": 7,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "13cbdad1-baa2-4e03-8b4b-9b27b4b492e8",
@@ -85,7 +107,10 @@
     "rarity": "Rare",
     "price": 6,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Animal",
+      "Mob"
+    ]
   },
   {
     "uuid": "f6f51e81-132d-462d-9a15-45c764afb725",
@@ -93,7 +118,9 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 15,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "dacbdb21-46ba-407b-a881-4e16a9f1405a",
@@ -101,7 +128,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 6,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Monster"
+    ]
   },
   {
     "uuid": "949cff18-5c6d-427b-a004-acf68ebe318c",
@@ -109,7 +139,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 9,
-    "tags": []
+    "tags": [
+      "Monster"
+    ]
   },
   {
     "uuid": "e266ddb9-621a-442d-8700-c81462a4e9c4",
@@ -117,7 +149,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "b415bf70-211c-4e47-95c4-ceaa256702c6",
@@ -125,7 +159,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "61f1b94d-7efe-4b5e-ac35-186782c49caf",
@@ -133,7 +169,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "43a661c9-3f90-4af6-acc8-037c92a75b27",
@@ -141,7 +179,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Monster"
+    ]
   },
   {
     "uuid": "e34d6f03-c34f-4a51-b1e6-da9851cd2acc",
@@ -149,7 +190,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Animal"
+    ]
   },
   {
     "uuid": "131134e6-9186-46ff-9d68-578e9c1e9d13",
@@ -157,7 +201,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 8,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Nature"
+    ]
   },
   {
     "uuid": "fc5f12b7-eb62-49e2-a865-a5d26fc8a212",
@@ -165,7 +212,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "54d13f1d-1f37-457e-b388-deb7a53394ec",
@@ -173,7 +222,10 @@
     "rarity": "Nation",
     "price": 5,
     "quantity": 13,
-    "tags": []
+    "tags": [
+      "Resource",
+      "Office"
+    ]
   },
   {
     "uuid": "b9a6e847-daf6-47eb-95a2-1c30136d6369",
@@ -181,7 +233,10 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 30,
-    "tags": []
+    "tags": [
+      "Resource",
+      "Office"
+    ]
   },
   {
     "uuid": "9f7b48f6-3a23-4db6-a42f-a73cd85d4e23",
@@ -189,7 +244,9 @@
     "rarity": "Uncommon",
     "price": 3,
     "quantity": 13,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "0c02e693-fef5-4bb7-aabd-b08e9fd64531",
@@ -197,7 +254,11 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 34,
-    "tags": []
+    "tags": [
+      "Resource",
+      "Office",
+      "Decor"
+    ]
   },
   {
     "uuid": "7c3974fa-c3be-4b5f-acef-629a99980bf3",
@@ -205,7 +266,10 @@
     "rarity": "Nation",
     "price": 6,
     "quantity": 22,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Monster"
+    ]
   },
   {
     "uuid": "65e7e1e1-1b56-4a11-8751-229abe96435e",
@@ -213,7 +277,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 27,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "8994de4e-47f8-41df-b0ef-1d5906577880",
@@ -221,7 +287,9 @@
     "rarity": "Rare",
     "price": 5,
     "quantity": 12,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "564a9fa1-3e0b-422b-93e8-0777d547ab0f",
@@ -229,7 +297,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 55,
-    "tags": []
+    "tags": [
+      "Food"
+    ]
   },
   {
     "uuid": "56667efb-403b-48ae-b6d1-90b0d0dd7dd3",
@@ -237,7 +307,9 @@
     "rarity": "Rare",
     "price": 3,
     "quantity": 21,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "72357cb0-b99a-4087-a04d-5ccead18ee16",
@@ -245,7 +317,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 22,
-    "tags": []
+    "tags": [
+      "Bird",
+      "Decor"
+    ]
   },
   {
     "uuid": "457df965-051d-445d-b9b8-67f9656a79c7",
@@ -253,7 +328,10 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 37,
-    "tags": []
+    "tags": [
+      "Monster",
+      "Mob"
+    ]
   },
   {
     "uuid": "0fa1183e-c710-4f43-93c0-77833706ab1c",
@@ -261,7 +339,10 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Monster",
+      "Mob"
+    ]
   },
   {
     "uuid": "967f6533-134c-4a33-9432-f4b7da422521",
@@ -269,7 +350,9 @@
     "rarity": "Uncommon",
     "price": 2,
     "quantity": 40,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "7e388c03-275b-4ad1-855d-662cfdb12641",
@@ -277,7 +360,9 @@
     "rarity": "Rare",
     "price": 6,
     "quantity": 5,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "b4771972-7658-44c1-9ec9-f6dc6c54190f",
@@ -285,15 +370,19 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "d8e4232d-78ae-4979-8487-307dd47f125a",
-    "name": "Bottle O\u2019 Whiskey",
+    "name": "Bottle O Whiskey",
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Food"
+    ]
   },
   {
     "uuid": "c1b40552-a168-491a-80ce-c10e5ef8e575",
@@ -301,7 +390,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 32,
-    "tags": []
+    "tags": [
+      "Office"
+    ]
   },
   {
     "uuid": "d6db9c41-228a-411d-99c2-90afb77b3adc",
@@ -309,7 +400,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 30,
-    "tags": []
+    "tags": [
+      "Resource",
+      "Food"
+    ]
   },
   {
     "uuid": "c80c6fb2-5369-446c-b4b9-6a2f7cde3dd6",
@@ -317,7 +411,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "33d948b0-9a98-4aae-8149-83a99297557c",
@@ -325,7 +421,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 30,
-    "tags": []
+    "tags": [
+      "Magical"
+    ]
   },
   {
     "uuid": "f41589b0-8be8-4268-bdc1-a921edd46df0",
@@ -333,7 +431,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "d96065a7-9f58-4776-b8a9-335829ce11db",
@@ -341,7 +441,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 23,
-    "tags": []
+    "tags": [
+      "Food"
+    ]
   },
   {
     "uuid": "f9dbfcd7-b365-464a-9cc6-238a42606163",
@@ -349,7 +451,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 29,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "704474c7-65ec-4df4-a86f-397d5a8d7f7e",
@@ -357,7 +461,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 32,
-    "tags": []
+    "tags": [
+      "Office"
+    ]
   },
   {
     "uuid": "e9f0cc02-2373-4ac2-b422-b83701199de5",
@@ -365,7 +471,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "2f7bfeb2-50af-47ae-9c4d-2f491891fa27",
@@ -373,7 +481,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 39,
-    "tags": []
+    "tags": [
+      "Resource",
+      "Decor"
+    ]
   },
   {
     "uuid": "7d5ba7f5-a978-4f47-aec1-a85c4c912bd9",
@@ -381,7 +492,9 @@
     "rarity": "Uncommon",
     "price": 1,
     "quantity": 144,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "411c9af3-7331-4750-8908-54c54b6037f6",
@@ -389,7 +502,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 27,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "c0dcf4d3-034f-419f-9a1d-4c64aac2d218",
@@ -397,7 +512,10 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 29,
-    "tags": []
+    "tags": [
+      "Office",
+      "Tech"
+    ]
   },
   {
     "uuid": "ba74de83-ca4c-4f71-a979-7d58fe594eb0",
@@ -405,7 +523,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "0512e764-ede0-4fa9-ac7d-eb4089b507aa",
@@ -413,7 +533,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 36,
-    "tags": []
+    "tags": [
+      "Food",
+      "Nature"
+    ]
   },
   {
     "uuid": "5a5e881b-2ad6-4150-9ede-1a37de738371",
@@ -421,7 +544,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 30,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "7d4d9939-215d-4449-ad26-79477bdf5c59",
@@ -429,7 +554,10 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 24,
-    "tags": []
+    "tags": [
+      "Office",
+      "Tech"
+    ]
   },
   {
     "uuid": "dab462fc-e4fd-42f4-9f5c-edd8ced47be7",
@@ -437,7 +565,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "11a18e80-a336-4a58-a8a0-947c88c9b285",
@@ -445,7 +575,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 34,
-    "tags": []
+    "tags": [
+      "Food"
+    ]
   },
   {
     "uuid": "b2a8c304-5af5-480b-a706-df8308f949dd",
@@ -453,7 +585,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "4a7b4a4d-4f3d-4297-ad2f-4177338bfab6",
@@ -461,7 +595,9 @@
     "rarity": "Uncommon",
     "price": 1,
     "quantity": 128,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "cc120207-1afe-478c-9acc-55175a406c3f",
@@ -469,7 +605,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 40,
-    "tags": []
+    "tags": [
+      "Food",
+      "Decor"
+    ]
   },
   {
     "uuid": "a5340c6f-b3a0-4d70-97a5-af479f2a3044",
@@ -477,7 +616,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "d94caab0-6fcf-4766-801c-41f21b78dead",
@@ -485,7 +626,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "ea54a3b8-3d5a-44ff-8776-a91a27fb8e39",
@@ -493,7 +636,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 6,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Decor"
+    ]
   },
   {
     "uuid": "2c33ccef-91db-4a95-9453-e32e89e95cfc",
@@ -501,7 +647,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Decor"
+    ]
   },
   {
     "uuid": "456f7f1e-1da6-4930-a36d-aa52226ed9a2",
@@ -509,7 +658,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 35,
-    "tags": []
+    "tags": [
+      "Food"
+    ]
   },
   {
     "uuid": "1884f6e4-3c54-4066-9408-7f7bc8503886",
@@ -517,7 +668,10 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 10,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Monster"
+    ]
   },
   {
     "uuid": "1d7140e4-85d9-4804-adef-032f4d797846",
@@ -525,7 +679,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "55de58ba-c043-43ca-b9c3-d6e060ab01d6",
@@ -533,7 +689,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "155633f6-4a60-4bcc-bdc0-19e127e8b4f4",
@@ -541,7 +699,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "68af3783-31d2-4547-936e-faa8753770b6",
@@ -549,7 +709,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "52edfb28-09b4-46ba-badf-dd0dbe8c6c47",
@@ -557,7 +719,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "93da080d-5777-4d7b-943d-f6a8ec9d5b32",
@@ -565,7 +729,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "f9f03213-acd2-4d20-86de-b3e151a60e56",
@@ -573,7 +739,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "ca83be44-4bfc-4da2-87ba-f66fbef9e662",
@@ -581,7 +749,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "41a777f4-9b7c-4a39-b151-8e7fde7467f7",
@@ -589,7 +759,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "03a7828a-2d7b-41fb-a0bf-dce76c966da4",
@@ -597,7 +769,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "bde49620-faa6-49f7-a5f6-f59d9a587d4c",
@@ -605,7 +779,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "3365ca53-8a01-4e0b-b1e2-ac09792b23fe",
@@ -613,7 +789,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "469aed58-d795-4ae8-a361-bc9d6e1ff6dc",
@@ -621,7 +799,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "82a8b64b-367f-4ac2-8a35-2fcbddf2dcb2",
@@ -629,7 +809,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "61cd0fea-8f3a-4356-8b77-d2920dfcd5dc",
@@ -637,7 +819,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "37e02dd3-99fa-462b-84d6-951e44094fd4",
@@ -645,7 +829,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "022c8d08-6729-4fb0-a7b0-15cb0f14b86d",
@@ -653,7 +839,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "c20b79b1-5de3-4963-9e4c-5dc0899bf983",
@@ -661,7 +849,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "62927ee8-d4d0-4b62-94d0-ab253726d387",
@@ -669,7 +859,9 @@
     "rarity": "Junk",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "32628a3d-febf-41bb-8212-81088d597d49",
@@ -677,7 +869,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 30,
-    "tags": []
+    "tags": [
+      "Resource"
+    ]
   },
   {
     "uuid": "be424e05-8dc1-46de-bbfd-7cd1e1c01791",
@@ -685,7 +879,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 31,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "aa150c04-6b4f-4608-989e-1f7b9e9b25c3",
@@ -693,7 +889,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 6,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "762ce46d-e01f-43fd-ae77-cf39960eca16",
@@ -701,7 +899,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Monster",
+      "Mob"
+    ]
   },
   {
     "uuid": "7295e5fd-383f-4ccb-b3df-0485a8b796a3",
@@ -709,7 +910,9 @@
     "rarity": "Rare",
     "price": 4,
     "quantity": 15,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "78766478-bb38-413c-841c-198212e9622b",
@@ -717,7 +920,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 41,
-    "tags": []
+    "tags": [
+      "Food"
+    ]
   },
   {
     "uuid": "4821aca1-536c-4d9a-a6af-039eb28c6451",
@@ -725,7 +930,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "4d25ec01-33ff-4120-8e1a-a281c9e619ad",
@@ -733,7 +940,9 @@
     "rarity": "Uncommon",
     "price": 1,
     "quantity": 78,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "cb5094e6-d1b9-4a70-8b3e-e718cfd1f8bf",
@@ -741,7 +950,10 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 34,
-    "tags": []
+    "tags": [
+      "Monster",
+      "Mob"
+    ]
   },
   {
     "uuid": "dbe27343-cc6e-4e5b-8483-21ffc56c8d88",
@@ -749,7 +961,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Animal",
+      "Bird"
+    ]
   },
   {
     "uuid": "3d3a16fe-c62c-4776-83be-ca16e2622f2c",
@@ -757,7 +972,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Monster"
+    ]
   },
   {
     "uuid": "da5c38e6-b304-4ee8-b761-cfe898faa0d5",
@@ -765,7 +983,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "56d2a627-dc2d-40f1-ab69-f5697305ee19",
@@ -773,7 +993,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Monster"
+    ]
   },
   {
     "uuid": "99be2bbd-2f22-41b6-856c-53ce4f3ca517",
@@ -781,7 +1003,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 29,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Decor"
+    ]
   },
   {
     "uuid": "b90c4dd3-0b0b-41ce-93fd-8cfe111b89f2",
@@ -789,7 +1014,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 34,
-    "tags": []
+    "tags": [
+      "Office"
+    ]
   },
   {
     "uuid": "17aa43e0-837b-43e6-bcfa-8800bda707b6",
@@ -797,7 +1024,10 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 31,
-    "tags": []
+    "tags": [
+      "Office",
+      "Decor"
+    ]
   },
   {
     "uuid": "a46aa99f-e0f4-44f5-b62d-21edf5b62274",
@@ -805,7 +1035,9 @@
     "rarity": "Rare",
     "price": 4,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "1818e019-9361-48a6-be1f-e4184eb7bc0b",
@@ -813,7 +1045,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 31,
-    "tags": []
+    "tags": [
+      "Nature"
+    ]
   },
   {
     "uuid": "ca638819-4e47-44c6-98f2-9461008d4ecb",
@@ -821,7 +1055,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 36,
-    "tags": []
+    "tags": [
+      "Nature"
+    ]
   },
   {
     "uuid": "28b03d6c-1064-42fb-8822-0d1d3e518836",
@@ -829,7 +1065,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 22,
-    "tags": []
+    "tags": [
+      "Nature"
+    ]
   },
   {
     "uuid": "0ee4925d-906c-4dfc-9279-657427d123aa",
@@ -837,7 +1075,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 32,
-    "tags": []
+    "tags": [
+      "Nature"
+    ]
   },
   {
     "uuid": "d8541118-3f82-409a-826f-5254f40fcf29",
@@ -845,7 +1085,9 @@
     "rarity": "Uncommon",
     "price": 2,
     "quantity": 67,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "feaeabed-7eed-4fe9-bf88-2db9768bc392",
@@ -853,7 +1095,9 @@
     "rarity": "Rare",
     "price": 4,
     "quantity": 11,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "4281b31f-41ec-4e30-a56e-97726499057b",
@@ -861,7 +1105,9 @@
     "rarity": "Uncommon",
     "price": 3,
     "quantity": 10,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "84807812-8dfd-47f1-9e87-7ea2ffaeab7e",
@@ -869,7 +1115,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "488e98eb-4904-4bdb-bb83-16a8e5e291ec",
@@ -877,7 +1125,10 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 22,
-    "tags": []
+    "tags": [
+      "Monster",
+      "Mob"
+    ]
   },
   {
     "uuid": "14e4213c-d49b-4b6f-a188-a6dd74ee431f",
@@ -885,7 +1136,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 24,
-    "tags": []
+    "tags": [
+      "Office"
+    ]
   },
   {
     "uuid": "631d1a40-e57f-41ef-814a-a9d3d953385e",
@@ -893,7 +1146,9 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 14,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "6840b64f-56e2-428b-8964-7434496c0660",
@@ -901,7 +1156,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 25,
-    "tags": []
+    "tags": [
+      "Magical"
+    ]
   },
   {
     "uuid": "e2cabb70-274c-4b72-a5f7-4cc00f2d334a",
@@ -909,7 +1166,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 32,
-    "tags": []
+    "tags": [
+      "Resource"
+    ]
   },
   {
     "uuid": "82639008-29fa-485f-aaee-e5fc70c1be8a",
@@ -917,7 +1176,9 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 10,
-    "tags": []
+    "tags": [
+      "Magical"
+    ]
   },
   {
     "uuid": "542e8cc3-440d-449f-a9e5-3397b057e1d4",
@@ -925,7 +1186,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 9,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "f60a30d2-2afa-4010-b55f-1b5ad46c9d81",
@@ -933,7 +1196,9 @@
     "rarity": "Uncommon",
     "price": 2,
     "quantity": 43,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "acc638d2-8e71-4869-966f-01a36ee15b77",
@@ -941,7 +1206,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 31,
-    "tags": []
+    "tags": [
+      "Magical"
+    ]
   },
   {
     "uuid": "6ff6fec3-7ed1-423c-a986-d6da28a2788f",
@@ -949,7 +1216,10 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 36,
-    "tags": []
+    "tags": [
+      "Monster",
+      "Mob"
+    ]
   },
   {
     "uuid": "0b495407-d283-4717-b829-47bdce30e277",
@@ -957,7 +1227,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 5,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "4853ae4a-adb9-42bd-bcf2-d4e4f3f2fa42",
@@ -965,7 +1237,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 30,
-    "tags": []
+    "tags": [
+      "Resource",
+      "Nature"
+    ]
   },
   {
     "uuid": "47b49efe-c62e-4ceb-9c97-3ad86b117017",
@@ -973,7 +1248,9 @@
     "rarity": "Rare",
     "price": 4,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "cd2856f1-97ab-4fa6-bbdc-26ffe5216b2c",
@@ -981,7 +1258,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "d6686e84-bb05-4204-a570-b8cdd585ca12",
@@ -989,7 +1268,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Magical"
+    ]
   },
   {
     "uuid": "4f3fa994-adbf-4a0d-891b-66cae191177e",
@@ -997,7 +1278,9 @@
     "rarity": "Uncommon",
     "price": 1,
     "quantity": 127,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "c00d7cd4-ee08-4ae0-9b70-e498cef6e1a4",
@@ -1005,7 +1288,9 @@
     "rarity": "Legendary",
     "price": 40,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "fc03daa3-9fc0-4728-bfbe-9c3a1dfedde2",
@@ -1013,7 +1298,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 34,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Food"
+    ]
   },
   {
     "uuid": "6171fc1f-d12f-47f3-99d8-29e8f54dbba0",
@@ -1021,7 +1309,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "87293f39-19e7-4608-9ad6-15af093dab53",
@@ -1029,7 +1319,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 6,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "dd7ad081-6c40-4582-a119-bbc6577a41f8",
@@ -1037,7 +1329,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 35,
-    "tags": []
+    "tags": [
+      "Resource"
+    ]
   },
   {
     "uuid": "9d1ee0d7-8740-45a6-96a3-f2983a8a039b",
@@ -1045,7 +1339,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 40,
-    "tags": []
+    "tags": [
+      "Office",
+      "Decor"
+    ]
   },
   {
     "uuid": "201588a3-0330-431a-b7d9-5de1bc063b36",
@@ -1053,15 +1350,20 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 38,
-    "tags": []
+    "tags": [
+      "Office",
+      "Decor"
+    ]
   },
   {
     "uuid": "76363a54-de97-4b74-b5fd-4d598ab7e119",
-    "name": "Jar Of Dragon'S Breath",
+    "name": "Jar Of Dragons Breath",
     "rarity": "Junk",
     "price": 2,
     "quantity": 31,
-    "tags": []
+    "tags": [
+      "Magical"
+    ]
   },
   {
     "uuid": "36467422-1577-49bb-857a-168274dfefcb",
@@ -1069,7 +1371,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 36,
-    "tags": []
+    "tags": [
+      "Magical"
+    ]
   },
   {
     "uuid": "b404279a-ea0a-4c30-ba96-096cac864824",
@@ -1077,7 +1381,9 @@
     "rarity": "Uncommon",
     "price": 2,
     "quantity": 56,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "917de703-9d64-4690-971f-1361383d9a6e",
@@ -1085,7 +1391,12 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 30,
-    "tags": []
+    "tags": [
+      "Resource",
+      "Office",
+      "Tech",
+      "Decor"
+    ]
   },
   {
     "uuid": "d16b8906-8e28-4229-a710-6474ab3d26cb",
@@ -1093,7 +1404,9 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 10,
-    "tags": []
+    "tags": [
+      "Food"
+    ]
   },
   {
     "uuid": "a46efe89-3fb3-419a-aca4-882db0079ff6",
@@ -1101,7 +1414,9 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 10,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "676f6214-389f-4793-bc68-e0e1c2e0d1a9",
@@ -1109,7 +1424,9 @@
     "rarity": "Uncommon",
     "price": 3,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "41ee162f-33af-4441-8d5e-1419350bf3d2",
@@ -1117,7 +1434,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "04c7fe41-b550-43b6-8036-77a0e3cc05e3",
@@ -1125,7 +1444,9 @@
     "rarity": "Rare",
     "price": 3,
     "quantity": 26,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "de2536e8-d579-40de-889f-8df57ddc186e",
@@ -1133,7 +1454,9 @@
     "rarity": "Rare",
     "price": 4,
     "quantity": 7,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "1f2835fb-5816-49a3-a4fa-b67d1dc624d4",
@@ -1141,7 +1464,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "c77b2949-f9c1-46ac-9ee8-1ea7e3276c1f",
@@ -1149,7 +1474,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "21b9a993-f837-42f5-8fbe-8c48f9a49198",
@@ -1157,7 +1484,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "76e9bf54-114c-479b-ae83-36bff25dbf7d",
@@ -1165,7 +1494,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "50a5a2a8-9c69-4c7c-8951-dc9d398e1d11",
@@ -1173,7 +1504,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "4bedc6f4-7cc1-4263-91ed-0a85d6cd3b3b",
@@ -1181,7 +1514,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "5751ee54-c8cf-456e-bb0e-277ed5ae532e",
@@ -1189,7 +1524,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "66aaf115-da7b-4074-bcff-22aa70f20a72",
@@ -1197,7 +1534,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "736e1f4c-19b7-4afc-9fbe-aabc317fbaad",
@@ -1205,7 +1544,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "dac13aba-5dba-45b3-8487-a96fbf8fe9f2",
@@ -1213,7 +1554,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "bd20e83d-ebd0-4da8-a61e-d8a4599b4bc6",
@@ -1221,7 +1564,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "93dad235-1e25-4c1b-a465-3ac0a6350047",
@@ -1229,7 +1574,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "6a817802-4265-4e22-b90a-5956795c698e",
@@ -1237,7 +1584,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "265d2952-8966-4e65-a597-34411059c048",
@@ -1245,7 +1594,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "3abb0c26-6522-459f-b3d3-3326acd5f766",
@@ -1253,7 +1604,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "205e5f11-b89f-42b7-be3e-01b0c8059ec9",
@@ -1261,7 +1614,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "a5eb1d49-a1ad-4e02-a27f-a9ac864906d2",
@@ -1269,7 +1624,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "3a0b0004-79ee-401e-9a95-65dd39a139f1",
@@ -1277,7 +1634,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "a24bc735-b94c-444e-823d-b2fe95b6539e",
@@ -1285,7 +1644,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "e3c310fd-301e-4267-9551-f516b6b4335f",
@@ -1293,7 +1654,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "bcc522a5-76cd-40f4-9828-1e0254fb3fbb",
@@ -1301,7 +1664,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "e7940ab5-612b-4c06-878d-a73f5b3bfdf8",
@@ -1309,7 +1674,9 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 10,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "6d2f35ea-f012-4bba-81a6-95fb75fa7643",
@@ -1317,7 +1684,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "83263a4c-ee15-4ef2-b9b1-9a7894e93521",
@@ -1325,7 +1694,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Decor",
+      "Nature"
+    ]
   },
   {
     "uuid": "7adc70ca-6059-4053-84e9-d588d72947f7",
@@ -1333,7 +1705,9 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 15,
-    "tags": []
+    "tags": [
+      "Monster"
+    ]
   },
   {
     "uuid": "e23fa496-4a31-49e6-829d-4a0138ffed14",
@@ -1341,7 +1715,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 29,
-    "tags": []
+    "tags": [
+      "Food"
+    ]
   },
   {
     "uuid": "d44cdc00-a589-4277-9325-9d291f5bb1ec",
@@ -1349,7 +1725,10 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Mob",
+      "Character"
+    ]
   },
   {
     "uuid": "b04da642-5c25-4b7d-a377-3e62895ffb58",
@@ -1357,7 +1736,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 19,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "81060f5b-db79-4fcc-9080-c1bd7b236dcc",
@@ -1365,7 +1746,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 39,
-    "tags": []
+    "tags": [
+      "Resource",
+      "Food"
+    ]
   },
   {
     "uuid": "1559030e-e135-417e-8e9b-ba8636ab4201",
@@ -1373,7 +1757,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Monster"
+    ]
   },
   {
     "uuid": "85b685c0-5abb-4ebc-bad7-e2a7aa8ab290",
@@ -1381,7 +1768,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Monster"
+    ]
   },
   {
     "uuid": "00e79137-954b-4302-8695-ba5a77357733",
@@ -1389,7 +1779,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "4a84fc0a-1c0f-4f2e-8069-c22a1bf3dfd9",
@@ -1397,7 +1789,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 27,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "a22bcdfa-c0f4-410d-8258-40e69a3b9bc1",
@@ -1405,7 +1799,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 32,
-    "tags": []
+    "tags": [
+      "Nature"
+    ]
   },
   {
     "uuid": "80fe88c3-1b04-401b-8a6c-971e88176c2b",
@@ -1413,7 +1809,9 @@
     "rarity": "Nation",
     "price": 6,
     "quantity": 24,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "14e3f05a-6b15-49ca-a5b7-3609851bb0e9",
@@ -1421,7 +1819,9 @@
     "rarity": "Rare",
     "price": 4,
     "quantity": 14,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "e5dd164a-c1d5-498b-86f9-4a3b3bc03d44",
@@ -1429,7 +1829,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "5fcac890-84c8-4a1d-9744-ddca308414f1",
@@ -1437,7 +1839,10 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 24,
-    "tags": []
+    "tags": [
+      "Office",
+      "Decor"
+    ]
   },
   {
     "uuid": "af5e8a5f-b30f-4b4e-bf12-a58762786282",
@@ -1445,7 +1850,9 @@
     "rarity": "Nation",
     "price": 6,
     "quantity": 20,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "3863be0f-08d2-4b4d-983d-2d9fd68362de",
@@ -1453,7 +1860,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "0d8fa230-f049-4e5d-ba6a-52bb959bc30c",
@@ -1461,7 +1870,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 5,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "50108da9-51d1-46b1-9247-d8eeae0008d4",
@@ -1469,7 +1880,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "fda0bfde-07b1-4934-95c0-8b333f9a0320",
@@ -1477,7 +1890,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "d0a19b90-41e1-485c-8e3b-6f61ff8959a4",
@@ -1485,7 +1900,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "ab8507d5-39ab-4ad5-ad8f-e2ce3a1ee6c9",
@@ -1493,7 +1910,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "8f33f115-8634-4deb-988c-b24d51c594d4",
@@ -1501,7 +1920,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "1a0cd837-4120-4917-bc53-19e9bc42467e",
@@ -1509,7 +1930,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 9,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "4ec344fc-21de-43a5-869d-42164202bcd4",
@@ -1517,7 +1940,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "40623418-1530-43f3-847e-62a9180ebe3c",
@@ -1525,7 +1950,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "97d1e4e1-404a-458b-9ae8-8b261f29bb83",
@@ -1533,7 +1960,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "d72c1da3-3b92-46a3-89c3-23c3b7f475a8",
@@ -1541,7 +1970,9 @@
     "rarity": "Uncommon",
     "price": 1,
     "quantity": 126,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "4e818d42-9c16-41fe-9683-4a6eb27e6b06",
@@ -1549,7 +1980,10 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 5,
-    "tags": []
+    "tags": [
+      "Tech",
+      "Character"
+    ]
   },
   {
     "uuid": "d8b233fb-994a-4359-9ba7-6d76fb8b2278",
@@ -1557,7 +1991,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 32,
-    "tags": []
+    "tags": [
+      "Office"
+    ]
   },
   {
     "uuid": "793e979b-7a37-49e2-963d-4562b740d856",
@@ -1565,7 +2001,10 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 10,
-    "tags": []
+    "tags": [
+      "Mob",
+      "Character"
+    ]
   },
   {
     "uuid": "c90aa8f3-62ce-45c9-bb63-9bb9b36ed287",
@@ -1573,7 +2012,9 @@
     "rarity": "Rare",
     "price": 4,
     "quantity": 16,
-    "tags": []
+    "tags": [
+      "Bird"
+    ]
   },
   {
     "uuid": "a9ce8fa3-615f-4969-b18a-8f89ddb4be9b",
@@ -1581,7 +2022,10 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Animal",
+      "Character"
+    ]
   },
   {
     "uuid": "a2460184-59c6-46bf-a6d6-c76d90708a79",
@@ -1589,7 +2033,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 5,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "a43b2f9d-176b-40a1-95f2-6297149c038e",
@@ -1597,7 +2043,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "60129e40-3050-4ec4-b137-2f6447a0aba4",
@@ -1605,7 +2053,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 9,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "a955a067-04a9-42be-9e0b-afad6ee8a5cb",
@@ -1613,7 +2063,9 @@
     "rarity": "Rare",
     "price": 4,
     "quantity": 10,
-    "tags": []
+    "tags": [
+      "Bird"
+    ]
   },
   {
     "uuid": "06c6a623-4dea-404c-ad08-e99e55c745cb",
@@ -1621,7 +2073,9 @@
     "rarity": "Uncommon",
     "price": 2,
     "quantity": 45,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "9f5cc2c6-63ff-4116-adcd-b2cb7a49939d",
@@ -1629,7 +2083,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "e82fae19-f410-480c-812e-fae050a29693",
@@ -1637,7 +2093,9 @@
     "rarity": "Rare",
     "price": 4,
     "quantity": 6,
-    "tags": []
+    "tags": [
+      "Bird"
+    ]
   },
   {
     "uuid": "332c87f1-ff44-450c-bcbd-04d17a8446ef",
@@ -1645,7 +2103,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 10,
-    "tags": []
+    "tags": [
+      "Office"
+    ]
   },
   {
     "uuid": "7a3d5242-3cf6-409e-84cd-bc8e93b94d17",
@@ -1653,7 +2113,10 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 29,
-    "tags": []
+    "tags": [
+      "Resource",
+      "Nature"
+    ]
   },
   {
     "uuid": "30cc1f60-56e9-44ce-b031-8a86992e3881",
@@ -1661,7 +2124,10 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 10,
-    "tags": []
+    "tags": [
+      "Animal",
+      "Mob"
+    ]
   },
   {
     "uuid": "fa7ffa7f-4059-4b4e-8fb8-b015bbd06e92",
@@ -1669,7 +2135,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 30,
-    "tags": []
+    "tags": [
+      "Office",
+      "Nature"
+    ]
   },
   {
     "uuid": "1d1598d2-96eb-4220-8518-db08be835c33",
@@ -1677,7 +2146,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 30,
-    "tags": []
+    "tags": [
+      "Office",
+      "Nature"
+    ]
   },
   {
     "uuid": "7ac25c65-0d01-422f-8efc-256f10b9f979",
@@ -1685,7 +2157,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 28,
-    "tags": []
+    "tags": [
+      "Office",
+      "Nature"
+    ]
   },
   {
     "uuid": "b5cb27a5-f7a2-4603-8cf0-4ae868684a78",
@@ -1693,7 +2168,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 34,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "829b534c-4925-48e5-9aed-e3c95415345c",
@@ -1701,7 +2178,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "17877212-2471-44c1-a3c2-ca039a972d60",
@@ -1709,7 +2188,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 29,
-    "tags": []
+    "tags": [
+      "Resource",
+      "Nature"
+    ]
   },
   {
     "uuid": "5b24119f-4692-4cb8-b229-a71d594028a7",
@@ -1717,7 +2199,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 35,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "8845170e-1087-4efc-9888-0cfbb09e2723",
@@ -1725,7 +2209,9 @@
     "rarity": "Rare",
     "price": 4,
     "quantity": 18,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "a6892f10-cef1-4199-9046-99d07fc250f8",
@@ -1733,7 +2219,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "c50006a6-187c-4293-8cdd-a1a4350e7bdf",
@@ -1741,7 +2229,10 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 15,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Character"
+    ]
   },
   {
     "uuid": "7270edec-1378-45a4-bdd3-b75bcaf5c110",
@@ -1749,7 +2240,9 @@
     "rarity": "Nation",
     "price": 6,
     "quantity": 21,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "bfc76ed1-928e-4c77-89d7-ca56435ef3e5",
@@ -1757,7 +2250,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 39,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "4d17d3d1-b290-4e51-8905-6121939b42c9",
@@ -1765,7 +2260,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "89c59864-b895-4f62-91fb-ff5ed5d62bfa",
@@ -1773,7 +2270,10 @@
     "rarity": "Rare",
     "price": 4,
     "quantity": 7,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Monster"
+    ]
   },
   {
     "uuid": "97326ba4-3b86-4651-8f06-d2239cdfc18d",
@@ -1781,7 +2281,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 39,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "cbb3e8d3-d7f8-423c-8345-2e28d823f9d7",
@@ -1789,7 +2291,11 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 6,
-    "tags": []
+    "tags": [
+      "Character",
+      "Magical",
+      "Nature"
+    ]
   },
   {
     "uuid": "93aa6146-ead0-4a45-a486-575ed81b594d",
@@ -1797,7 +2303,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Monster"
+    ]
   },
   {
     "uuid": "f464c897-fd40-4153-bb6e-dcae3bef446d",
@@ -1805,7 +2314,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 36,
-    "tags": []
+    "tags": [
+      "Character",
+      "Nature"
+    ]
   },
   {
     "uuid": "16e10ed6-1097-4379-86ee-21bf92cbc7f8",
@@ -1813,7 +2325,9 @@
     "rarity": "Rare",
     "price": 3,
     "quantity": 31,
-    "tags": []
+    "tags": [
+      "Bird"
+    ]
   },
   {
     "uuid": "b67581b5-b120-4eef-a419-0e17804d1d80",
@@ -1821,7 +2335,9 @@
     "rarity": "Rare",
     "price": 3,
     "quantity": 22,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "b0fdaeb0-af6c-45cb-815c-ffdd7a98bc69",
@@ -1829,7 +2345,10 @@
     "rarity": "Legendary",
     "price": 40,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Decor"
+    ]
   },
   {
     "uuid": "84d7d009-3a10-48e3-9092-59018ec4f28e",
@@ -1837,7 +2356,10 @@
     "rarity": "Legendary",
     "price": 40,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Decor"
+    ]
   },
   {
     "uuid": "ae8824a7-0d4e-4b94-8577-3342aa01e687",
@@ -1845,7 +2367,10 @@
     "rarity": "Legendary",
     "price": 64,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Decor"
+    ]
   },
   {
     "uuid": "949d09f4-944a-4b5f-921b-e5f9e2f41fa0",
@@ -1853,7 +2378,10 @@
     "rarity": "Legendary",
     "price": 40,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Decor"
+    ]
   },
   {
     "uuid": "30f7522d-f7a5-4c84-82b5-7ac98d38f4d7",
@@ -1861,7 +2389,10 @@
     "rarity": "Legendary",
     "price": 40,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Decor"
+    ]
   },
   {
     "uuid": "55a6fa40-9b7b-4d5d-98bf-e12585b90361",
@@ -1869,7 +2400,10 @@
     "rarity": "Legendary",
     "price": 40,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Decor"
+    ]
   },
   {
     "uuid": "a98a08ef-bf21-4969-91e1-0f6c7922110c",
@@ -1877,7 +2411,10 @@
     "rarity": "Legendary",
     "price": 40,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Decor"
+    ]
   },
   {
     "uuid": "e9eb4098-ba07-4ea2-8670-cae5388150af",
@@ -1885,7 +2422,9 @@
     "rarity": "Uncommon",
     "price": 1,
     "quantity": 136,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "a6628b90-c4ce-4df3-9acc-c0a52b2e830d",
@@ -1893,7 +2432,9 @@
     "rarity": "Nation",
     "price": 4,
     "quantity": 54,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "07d6b612-de2d-4427-9242-3af0d66e78b0",
@@ -1901,7 +2442,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 32,
-    "tags": []
+    "tags": [
+      "Magical"
+    ]
   },
   {
     "uuid": "10ef3362-3e35-4f0a-a509-d56e18e7d5db",
@@ -1909,7 +2452,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 7,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "7123f6f8-0d7c-43a5-8f4f-725b58485f74",
@@ -1917,7 +2462,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 42,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "991402c0-1786-48a8-ad8f-5336b2ac4a9c",
@@ -1925,7 +2472,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "95ce8d82-0155-4372-964f-66b76600f027",
@@ -1933,7 +2482,9 @@
     "rarity": "Rare",
     "price": 3,
     "quantity": 24,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "70695a39-c73e-4275-add5-f215e999e227",
@@ -1941,7 +2492,9 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 15,
-    "tags": []
+    "tags": [
+      "Monster"
+    ]
   },
   {
     "uuid": "90d29a52-8fdb-4065-9ac9-79c26224cf16",
@@ -1949,7 +2502,9 @@
     "rarity": "Uncommon",
     "price": 3,
     "quantity": 11,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "fd4e0b9a-c0e4-40f6-bd50-99cd28d3305c",
@@ -1957,7 +2512,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 29,
-    "tags": []
+    "tags": [
+      "Magical"
+    ]
   },
   {
     "uuid": "57da0a68-baa1-47c2-9da9-e345383b04b6",
@@ -1965,7 +2522,10 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Mob",
+      "Character"
+    ]
   },
   {
     "uuid": "21d5d958-6469-4a91-ad87-7a2a13caeb17",
@@ -1973,7 +2533,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 34,
-    "tags": []
+    "tags": [
+      "Food"
+    ]
   },
   {
     "uuid": "cc080840-3c03-43d1-872f-d2ab277bd39f",
@@ -1981,7 +2543,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Food"
+    ]
   },
   {
     "uuid": "57e90492-0233-4735-af79-e3932f44f1aa",
@@ -1989,7 +2553,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "fc546b59-1c9d-4894-8895-77266dc75de7",
@@ -1997,7 +2563,9 @@
     "rarity": "Rare",
     "price": 4,
     "quantity": 16,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "e92fcca4-b7bf-4bb4-a1de-ea8ff746e86f",
@@ -2005,7 +2573,9 @@
     "rarity": "Rare",
     "price": 3,
     "quantity": 32,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "598b39e9-552b-4588-bba0-d09547ec1db4",
@@ -2013,7 +2583,10 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 25,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Food"
+    ]
   },
   {
     "uuid": "d7ebd383-4c17-4b9c-8c10-412344bb1dcb",
@@ -2021,7 +2594,10 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 11,
-    "tags": []
+    "tags": [
+      "Monster",
+      "Magical"
+    ]
   },
   {
     "uuid": "8c06fd91-4236-476d-86e4-d419ca8b0a32",
@@ -2029,7 +2605,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "e58005af-7fa6-4282-916b-100bd16f5e40",
@@ -2037,7 +2615,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 40,
-    "tags": []
+    "tags": [
+      "Food"
+    ]
   },
   {
     "uuid": "bcbf5d74-d220-4689-88cd-9b462c5da44e",
@@ -2045,7 +2625,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "3ef9ac15-d4bc-4fc5-9dc2-8a93c0fbc922",
@@ -2053,7 +2635,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "61a38485-baa5-4a48-a972-1edadc5e8ddf",
@@ -2061,7 +2645,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "343b2442-2bb1-451c-b110-a02c0624a610",
@@ -2069,7 +2655,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "278b5d69-247f-4cf3-88b3-649a5f2d7055",
@@ -2077,7 +2665,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "b8d8e8ad-bc03-43d3-8631-e4e5c56094e6",
@@ -2085,7 +2675,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "2586d012-21fd-41be-8a59-a2e5e48d8edf",
@@ -2093,7 +2685,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "0bde86e7-90a7-4b3a-914d-347be22d1a3d",
@@ -2101,7 +2695,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "bb3f2a24-6ecc-4433-92c2-8f327c76e982",
@@ -2109,7 +2705,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "c31ebf10-0429-4d4f-8257-50ccf0ed2347",
@@ -2117,7 +2715,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "7047c1b1-9cd3-4d39-a727-5115ee5c97ea",
@@ -2125,7 +2725,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "4235128b-13e5-4ca3-ad94-97c8d921fb41",
@@ -2133,7 +2735,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "27dfa82c-12cf-48d7-a428-0c637eece9cc",
@@ -2141,7 +2745,9 @@
     "rarity": "Junk",
     "price": 4,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Typography"
+    ]
   },
   {
     "uuid": "6d2a395a-6044-4992-976b-5833471414c0",
@@ -2149,7 +2755,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 23,
-    "tags": []
+    "tags": [
+      "Food"
+    ]
   },
   {
     "uuid": "8cabed3f-d507-4afc-b493-3868fe01d06f",
@@ -2157,7 +2765,11 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Bird",
+      "Mob",
+      "Character"
+    ]
   },
   {
     "uuid": "320bfc39-f2f7-4f75-911c-0ae296bacc46",
@@ -2165,7 +2777,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "dbe9f256-f3db-4ee5-ab1f-79a5a52a07b6",
@@ -2173,7 +2787,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 33,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "5053d6c4-f88a-49e1-998d-cebe5dcfbc81",
@@ -2181,7 +2797,10 @@
     "rarity": "Nation",
     "price": 7,
     "quantity": 10,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Monster"
+    ]
   },
   {
     "uuid": "0fd56778-973f-4ab8-90e3-12ed6c731f81",
@@ -2189,7 +2808,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "de0f505c-5529-467e-b159-fa8594398406",
@@ -2197,7 +2818,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 6,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "3420fd03-302a-48c1-be8f-c5222b110057",
@@ -2205,7 +2828,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Decor"
+    ]
   },
   {
     "uuid": "f1ad2335-512b-46a9-bec9-ec2be1cb8df6",
@@ -2213,7 +2839,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 28,
-    "tags": []
+    "tags": [
+      "Resource"
+    ]
   },
   {
     "uuid": "693477e5-7a96-4527-a186-85eb36219aa9",
@@ -2221,7 +2849,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "f1aa52b6-e5c7-4c23-ae97-c68e839ef7fe",
@@ -2229,7 +2859,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "8f9cde85-1361-4cb0-a86d-8e2cf46f6950",
@@ -2237,7 +2869,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "72744fef-f0ba-4f6d-b2f4-7bb09d3a8783",
@@ -2245,7 +2879,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 5,
-    "tags": []
+    "tags": [
+      "Magical",
+      "Food"
+    ]
   },
   {
     "uuid": "c54ff647-4439-410d-ba4d-c6e261a2c006",
@@ -2253,7 +2890,10 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Animal",
+      "Character"
+    ]
   },
   {
     "uuid": "8e01538f-16ca-4599-a11f-d53bafe07448",
@@ -2261,7 +2901,9 @@
     "rarity": "Junk",
     "price": 6,
     "quantity": 7,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "a4e4a7fc-d6fb-4dd3-b693-10d0ec0503b1",
@@ -2269,7 +2911,9 @@
     "rarity": "Junk",
     "price": 6,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "15f845ef-aa18-4d46-8908-b7b9c4e60159",
@@ -2277,7 +2921,9 @@
     "rarity": "Junk",
     "price": 6,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "fef8d871-e6ff-494e-b489-3941518963b6",
@@ -2285,7 +2931,9 @@
     "rarity": "Junk",
     "price": 6,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "d133f969-6c64-4211-af67-56d5a0131883",
@@ -2293,7 +2941,9 @@
     "rarity": "Junk",
     "price": 6,
     "quantity": 5,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "ed59f6dc-33a5-4b92-8166-332300ff949f",
@@ -2301,7 +2951,10 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 33,
-    "tags": []
+    "tags": [
+      "Office",
+      "Decor"
+    ]
   },
   {
     "uuid": "64a795d3-644c-4061-b9a1-c04db8fbe289",
@@ -2309,7 +2962,10 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 3,
-    "tags": []
+    "tags": [
+      "Animal",
+      "Character"
+    ]
   },
   {
     "uuid": "9e5c1485-90fd-4b5e-a8c3-4efef8400759",
@@ -2317,7 +2973,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 5,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "6c4e0f1d-cab4-44cf-8352-b353ffc15569",
@@ -2325,7 +2983,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 6,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "ad18618d-bffd-4422-8009-825a647c6c87",
@@ -2333,7 +2993,9 @@
     "rarity": "Uncommon",
     "price": 2,
     "quantity": 25,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "9aa8d97b-3621-4809-8c2d-07c38e09e0af",
@@ -2341,7 +3003,10 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 4,
-    "tags": []
+    "tags": [
+      "Animal",
+      "Character"
+    ]
   },
   {
     "uuid": "09c60f21-a794-4fe0-8517-ab2c66e9fb05",
@@ -2349,7 +3014,9 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 25,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "77246128-f411-4612-91d1-66fabb5c2cde",
@@ -2357,7 +3024,10 @@
     "rarity": "Nation",
     "price": 6,
     "quantity": 23,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Monster"
+    ]
   },
   {
     "uuid": "7569d720-799c-45b1-8e28-8ea0bcd9140e",
@@ -2365,7 +3035,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Decor"
+    ]
   },
   {
     "uuid": "2b9041ca-2ac3-4198-9c86-23a4302f5e43",
@@ -2373,7 +3045,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 6,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "8e75980b-41dc-4dd1-8977-b6b301d24362",
@@ -2381,7 +3055,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "8b67cc47-fe14-4c83-9ddc-7bfce7dc8ec1",
@@ -2389,7 +3065,9 @@
     "rarity": "Junk",
     "price": 5,
     "quantity": 15,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "8bec8ca3-6fd5-45c1-8893-9354f648b29b",
@@ -2397,7 +3075,9 @@
     "rarity": "Junk",
     "price": 5,
     "quantity": 10,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "4a9a6424-8c9a-4a30-a644-0af7907077f1",
@@ -2405,7 +3085,9 @@
     "rarity": "Junk",
     "price": 5,
     "quantity": 11,
-    "tags": []
+    "tags": [
+      "Tech"
+    ]
   },
   {
     "uuid": "706af34b-3bab-425f-8c62-253976304827",
@@ -2413,7 +3095,10 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 38,
-    "tags": []
+    "tags": [
+      "Resource",
+      "Magical"
+    ]
   },
   {
     "uuid": "8c398eef-250b-43bf-816f-b2ebd4c04a68",
@@ -2421,7 +3106,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 32,
-    "tags": []
+    "tags": [
+      "Food"
+    ]
   },
   {
     "uuid": "ee367827-20ce-4b7e-aa3b-8ce6ac5a36ba",
@@ -2429,7 +3116,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 5,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "6eb02595-d3f9-47cd-ad2d-e1baaddf57ad",
@@ -2437,7 +3126,9 @@
     "rarity": "Junk",
     "price": 2,
     "quantity": 32,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "3e9ecb45-b0a9-4d44-886f-4f3fdd5cc247",
@@ -2445,7 +3136,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 6,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "40148d60-4ae6-42ae-98f1-c89a6af8d05c",
@@ -2453,7 +3146,10 @@
     "rarity": "Nation",
     "price": 6,
     "quantity": 21,
-    "tags": []
+    "tags": [
+      "Fish",
+      "Monster"
+    ]
   },
   {
     "uuid": "44246354-52a8-4e94-af19-73c63f5cffa1",
@@ -2461,7 +3157,9 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Character"
+    ]
   },
   {
     "uuid": "4ea0d9d2-62e4-4f6a-9887-09c789654204",
@@ -2469,7 +3167,11 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 6,
-    "tags": []
+    "tags": [
+      "Monster",
+      "Magical",
+      "Decor"
+    ]
   },
   {
     "uuid": "4367c791-ed3e-4224-a5bb-893f8a129887",
@@ -2477,7 +3179,9 @@
     "rarity": "Uncommon",
     "price": 2,
     "quantity": 44,
-    "tags": []
+    "tags": [
+      "Fish"
+    ]
   },
   {
     "uuid": "4097d25e-d63b-4414-aa9d-ead7c87add3b",
@@ -2485,7 +3189,10 @@
     "rarity": "Player",
     "price": 8,
     "quantity": 2,
-    "tags": []
+    "tags": [
+      "Character",
+      "Food"
+    ]
   },
   {
     "uuid": "a1912943-0935-4cb6-857c-e08900a3cf8d",
@@ -2493,7 +3200,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Bird"
+    ]
   },
   {
     "uuid": "50f39efc-c431-4f76-b8ed-2ab730a96151",
@@ -2501,7 +3210,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 1,
-    "tags": []
+    "tags": [
+      "Animal"
+    ]
   },
   {
     "uuid": "c0df7b6c-3bf0-4a08-80c7-79bc759c3c58",
@@ -2509,7 +3220,10 @@
     "rarity": "Junk",
     "price": 3,
     "quantity": 35,
-    "tags": []
+    "tags": [
+      "Monster",
+      "Mob"
+    ]
   },
   {
     "uuid": "30f9acc4-59d9-471a-8476-55e79f6bccca",
@@ -2517,6 +3231,9 @@
     "rarity": "Nation",
     "price": 8,
     "quantity": 5,
-    "tags": []
+    "tags": [
+      "Food",
+      "Nature"
+    ]
   }
 ]

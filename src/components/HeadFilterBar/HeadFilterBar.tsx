@@ -53,7 +53,7 @@ export default function HeadFilterBar(
         sx={{flex: 1, textAlign: 'left'}}
       >
         <MenuItem key="All" value="All">All</MenuItem>
-        {Array.from(tags).map(t => <MenuItem key={t} value={t}>{t}</MenuItem>)}
+        {Array.from(tags).sort().map(t => <MenuItem key={t} value={t}>{t}</MenuItem>)}
       </TextField>
     </Stack>
   );

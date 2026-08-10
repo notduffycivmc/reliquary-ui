@@ -80,7 +80,7 @@ function App() {
     return heads.filter(h => {
       const matchesSearch = h.name.toLowerCase().includes(searchName.toLowerCase());
       const matchesRarity = searchRarity === 'All' || h.rarity === searchRarity;
-      const matchesTag = searchTag === 'All' || h.tag === searchTag;
+      const matchesTag = searchTag === 'All' || h.tags.includes(searchTag);
       return matchesSearch && matchesRarity && matchesTag;
     });
   }, [heads, rarities, tags, searchName, searchRarity, searchTag]);
