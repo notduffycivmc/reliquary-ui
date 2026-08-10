@@ -34,8 +34,9 @@ export default function DiscordJoinBar() {
             <Typography variant='body2'>Click here to join the Reliquary Discord and request purchases!</Typography>
             <DiscordIcon fontSize="large" />
         </Box>
-        <Box sx={{ marginTop: 1 }}>
+        <Box sx={{ marginTop: 1, display: 'flex', flexDirection: 'column'}}>
           <Typography variant="overline" sx={{ fontStyle: 'italic', fontSize: 10 }}>Disclaimer: All prices are in the form of in game currency.</Typography>
+          <Typography variant="overline" sx={{ fontStyle: 'italic', fontSize: 10 }}>View the Currency Exchange (right side of screen) to see how this translates to in game currency.</Typography>
         </Box>
     </Box>
   )

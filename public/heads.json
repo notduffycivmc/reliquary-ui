@@ -1,6 +1,6 @@
 [
   {
-    "uuid": "2b43718f-0c11-488c-94d8-2890fd0bfb6f",
+    "uuid": "171d6d8f-eab5-4489-9091-95345e899fd3",
     "name": "A Friend",
     "rarity": "Nation",
     "price": 8,
@@ -8,2331 +8,2515 @@
     "tags": []
   },
   {
-    "uuid": "d71e97d7-da19-46b4-8956-88628f14cfc6",
+    "uuid": "544283a3-4cc2-4f3e-b9b7-d599caddfc36",
     "name": "Abyssal Jellyfish",
     "rarity": "Rare",
+    "price": 4,
+    "quantity": 18,
+    "tags": []
+  },
+  {
+    "uuid": "7e1c1434-19fc-4738-91e6-c869431aca37",
+    "name": "Ahrimanne",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "f6422eda-b2f5-4926-95a9-74458d18a7c8",
+    "name": "Amboise Token",
+    "rarity": "Nation",
     "price": 7,
+    "quantity": 10,
+    "tags": []
+  },
+  {
+    "uuid": "22254c8e-9dd4-43d3-9cb1-aa7e11d1edd0",
+    "name": "Anchovy",
+    "rarity": "Uncommon",
+    "price": 3,
+    "quantity": 14,
+    "tags": []
+  },
+  {
+    "uuid": "f4a9ba3a-6c8f-47b6-967c-df29b2d0a51b",
+    "name": "Ancient Debris",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 25,
+    "tags": []
+  },
+  {
+    "uuid": "56fb6e67-0d51-4a8b-9e9a-e525260b7a00",
+    "name": "Ancient Delian Bust",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 5,
+    "tags": []
+  },
+  {
+    "uuid": "e62b5202-716e-42b8-830a-a90ce4a1945d",
+    "name": "Anemonae",
+    "rarity": "Rare",
+    "price": 3,
+    "quantity": 21,
+    "tags": []
+  },
+  {
+    "uuid": "8d80ae79-61d1-4454-9cb3-7805f5bd23ae",
+    "name": "Apple",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 40,
+    "tags": []
+  },
+  {
+    "uuid": "d312c028-0b92-4eb4-989c-698ce283622d",
+    "name": "Arctic Lamprey",
+    "rarity": "Uncommon",
+    "price": 3,
+    "quantity": 7,
+    "tags": []
+  },
+  {
+    "uuid": "13cbdad1-baa2-4e03-8b4b-9b27b4b492e8",
+    "name": "Armadillo",
+    "rarity": "Rare",
+    "price": 6,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "f6f51e81-132d-462d-9a15-45c764afb725",
+    "name": "Artonian Pupfish",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 15,
+    "tags": []
+  },
+  {
+    "uuid": "dacbdb21-46ba-407b-a881-4e16a9f1405a",
+    "name": "Arxian Cogfin",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 6,
+    "tags": []
+  },
+  {
+    "uuid": "949cff18-5c6d-427b-a004-acf68ebe318c",
+    "name": "Aspasian Ichthyosaur",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 9,
+    "tags": []
+  },
+  {
+    "uuid": "e266ddb9-621a-442d-8700-c81462a4e9c4",
+    "name": "Astolfo Bean",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "b415bf70-211c-4e47-95c4-ceaa256702c6",
+    "name": "Astrotx",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "61f1b94d-7efe-4b5e-ac35-186782c49caf",
+    "name": "Augustan Anchovy",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "43a661c9-3f90-4af6-acc8-037c92a75b27",
+    "name": "Auroran Dragonfish",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "e34d6f03-c34f-4a51-b1e6-da9851cd2acc",
+    "name": "Auroran Stampyfish",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "131134e6-9186-46ff-9d68-578e9c1e9d13",
+    "name": "Auroran Sunleaker (Orb)",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 8,
+    "tags": []
+  },
+  {
+    "uuid": "fc5f12b7-eb62-49e2-a865-a5d26fc8a212",
+    "name": "Auroran Sunleaker (Person)",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "54d13f1d-1f37-457e-b388-deb7a53394ec",
+    "name": "Bag Of Diamonds",
+    "rarity": "Nation",
+    "price": 5,
+    "quantity": 13,
+    "tags": []
+  },
+  {
+    "uuid": "b9a6e847-daf6-47eb-95a2-1c30136d6369",
+    "name": "Bag Of Gold Coins",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 30,
+    "tags": []
+  },
+  {
+    "uuid": "9f7b48f6-3a23-4db6-a42f-a73cd85d4e23",
+    "name": "Barracuda",
+    "rarity": "Uncommon",
+    "price": 3,
+    "quantity": 13,
+    "tags": []
+  },
+  {
+    "uuid": "0c02e693-fef5-4bb7-aabd-b08e9fd64531",
+    "name": "Barrel",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 34,
+    "tags": []
+  },
+  {
+    "uuid": "7c3974fa-c3be-4b5f-acef-629a99980bf3",
+    "name": "Basaltington Frogfish",
+    "rarity": "Nation",
+    "price": 6,
+    "quantity": 22,
+    "tags": []
+  },
+  {
+    "uuid": "65e7e1e1-1b56-4a11-8751-229abe96435e",
+    "name": "Beach Ball",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 27,
+    "tags": []
+  },
+  {
+    "uuid": "8994de4e-47f8-41df-b0ef-1d5906577880",
+    "name": "Beetle",
+    "rarity": "Rare",
+    "price": 5,
     "quantity": 12,
     "tags": []
   },
   {
-    "uuid": "187da83a-251f-474d-bb6b-bba25c5ea2b2",
-    "name": "Ahrimanne",
+    "uuid": "564a9fa1-3e0b-422b-93e8-0777d547ab0f",
+    "name": "Belgian Beer",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 55,
+    "tags": []
+  },
+  {
+    "uuid": "56667efb-403b-48ae-b6d1-90b0d0dd7dd3",
+    "name": "Betta",
+    "rarity": "Rare",
+    "price": 3,
+    "quantity": 21,
+    "tags": []
+  },
+  {
+    "uuid": "72357cb0-b99a-4087-a04d-5ccead18ee16",
+    "name": "Bird House",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 22,
+    "tags": []
+  },
+  {
+    "uuid": "457df965-051d-445d-b9b8-67f9656a79c7",
+    "name": "Blaze",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 37,
+    "tags": []
+  },
+  {
+    "uuid": "0fa1183e-c710-4f43-93c0-77833706ab1c",
+    "name": "Blob",
     "rarity": "Player",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "967f6533-134c-4a33-9432-f4b7da422521",
+    "name": "Blue Catfish",
+    "rarity": "Uncommon",
+    "price": 2,
+    "quantity": 40,
+    "tags": []
+  },
+  {
+    "uuid": "7e388c03-275b-4ad1-855d-662cfdb12641",
+    "name": "Blue Frog",
+    "rarity": "Rare",
+    "price": 6,
+    "quantity": 5,
+    "tags": []
+  },
+  {
+    "uuid": "b4771972-7658-44c1-9ec9-f6dc6c54190f",
+    "name": "Bonkill",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "d8e4232d-78ae-4979-8487-307dd47f125a",
+    "name": "Bottle O\u2019 Whiskey",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "c1b40552-a168-491a-80ce-c10e5ef8e575",
+    "name": "Box Of Documents",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 32,
+    "tags": []
+  },
+  {
+    "uuid": "d6db9c41-228a-411d-99c2-90afb77b3adc",
+    "name": "Bread",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 30,
+    "tags": []
+  },
+  {
+    "uuid": "c80c6fb2-5369-446c-b4b9-6a2f7cde3dd6",
+    "name": "Britishwanderer",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "33d948b0-9a98-4aae-8149-83a99297557c",
+    "name": "Bronze Jar",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 30,
+    "tags": []
+  },
+  {
+    "uuid": "f41589b0-8be8-4268-bdc1-a921edd46df0",
+    "name": "Builder Bee",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "d96065a7-9f58-4776-b8a9-335829ce11db",
+    "name": "Burger",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 23,
+    "tags": []
+  },
+  {
+    "uuid": "f9dbfcd7-b365-464a-9cc6-238a42606163",
+    "name": "Camera",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 29,
+    "tags": []
+  },
+  {
+    "uuid": "704474c7-65ec-4df4-a86f-397d5a8d7f7e",
+    "name": "Cardboard Box",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 32,
+    "tags": []
+  },
+  {
+    "uuid": "e9f0cc02-2373-4ac2-b422-b83701199de5",
+    "name": "Catiststudy",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "2f7bfeb2-50af-47ae-9c4d-2f491891fa27",
+    "name": "Chest",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 39,
+    "tags": []
+  },
+  {
+    "uuid": "7d5ba7f5-a978-4f47-aec1-a85c4c912bd9",
+    "name": "Clam",
+    "rarity": "Uncommon",
+    "price": 1,
+    "quantity": 144,
+    "tags": []
+  },
+  {
+    "uuid": "411c9af3-7331-4750-8908-54c54b6037f6",
+    "name": "Clean Clothes",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 27,
+    "tags": []
+  },
+  {
+    "uuid": "c0dcf4d3-034f-419f-9a1d-4c64aac2d218",
+    "name": "Clock",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 29,
+    "tags": []
+  },
+  {
+    "uuid": "ba74de83-ca4c-4f71-a979-7d58fe594eb0",
+    "name": "Coast Ridden Statue",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "0512e764-ede0-4fa9-ac7d-eb4089b507aa",
+    "name": "Coconut",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 36,
+    "tags": []
+  },
+  {
+    "uuid": "5a5e881b-2ad6-4150-9ede-1a37de738371",
+    "name": "Compass",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 30,
+    "tags": []
+  },
+  {
+    "uuid": "7d4d9939-215d-4449-ad26-79477bdf5c59",
+    "name": "Computer Monitor",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 24,
+    "tags": []
+  },
+  {
+    "uuid": "dab462fc-e4fd-42f4-9f5c-edd8ced47be7",
+    "name": "Comrade Crab",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "11a18e80-a336-4a58-a8a0-947c88c9b285",
+    "name": "Cookie Jar",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 34,
+    "tags": []
+  },
+  {
+    "uuid": "b2a8c304-5af5-480b-a706-df8308f949dd",
+    "name": "Cortesian Cod",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "4a7b4a4d-4f3d-4297-ad2f-4177338bfab6",
+    "name": "Crab",
+    "rarity": "Uncommon",
+    "price": 1,
+    "quantity": 128,
+    "tags": []
+  },
+  {
+    "uuid": "cc120207-1afe-478c-9acc-55175a406c3f",
+    "name": "Crate Of Food",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 40,
+    "tags": []
+  },
+  {
+    "uuid": "a5340c6f-b3a0-4d70-97a5-af479f2a3044",
+    "name": "Creepi0N",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "d94caab0-6fcf-4766-801c-41f21b78dead",
+    "name": "Crimeo",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "ea54a3b8-3d5a-44ff-8776-a91a27fb8e39",
+    "name": "Crown Of Pavia",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 6,
+    "tags": []
+  },
+  {
+    "uuid": "2c33ccef-91db-4a95-9453-e32e89e95cfc",
+    "name": "Crown Of The Commonwealth",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "456f7f1e-1da6-4930-a36d-aa52226ed9a2",
+    "name": "Cup Of Tea",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 35,
+    "tags": []
+  },
+  {
+    "uuid": "1884f6e4-3c54-4066-9408-7f7bc8503886",
+    "name": "Deluvian Anglerfish",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 10,
+    "tags": []
+  },
+  {
+    "uuid": "1d7140e4-85d9-4804-adef-032f4d797846",
+    "name": "Diamond Letter (A)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "55de58ba-c043-43ca-b9c3-d6e060ab01d6",
+    "name": "Diamond Letter (B)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "155633f6-4a60-4bcc-bdc0-19e127e8b4f4",
+    "name": "Diamond Letter (C)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "68af3783-31d2-4547-936e-faa8753770b6",
+    "name": "Diamond Letter (E)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "52edfb28-09b4-46ba-badf-dd0dbe8c6c47",
+    "name": "Diamond Letter (F)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "93da080d-5777-4d7b-943d-f6a8ec9d5b32",
+    "name": "Diamond Letter (G)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "f9f03213-acd2-4d20-86de-b3e151a60e56",
+    "name": "Diamond Letter (H)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "ca83be44-4bfc-4da2-87ba-f66fbef9e662",
+    "name": "Diamond Letter (I)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "41a777f4-9b7c-4a39-b151-8e7fde7467f7",
+    "name": "Diamond Letter (L)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "03a7828a-2d7b-41fb-a0bf-dce76c966da4",
+    "name": "Diamond Letter (M)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "bde49620-faa6-49f7-a5f6-f59d9a587d4c",
+    "name": "Diamond Letter (N)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "3365ca53-8a01-4e0b-b1e2-ac09792b23fe",
+    "name": "Diamond Letter (O)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "469aed58-d795-4ae8-a361-bc9d6e1ff6dc",
+    "name": "Diamond Letter (Q)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "82a8b64b-367f-4ac2-8a35-2fcbddf2dcb2",
+    "name": "Diamond Letter (R)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "61cd0fea-8f3a-4356-8b77-d2920dfcd5dc",
+    "name": "Diamond Letter (T)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "37e02dd3-99fa-462b-84d6-951e44094fd4",
+    "name": "Diamond Letter (U)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "022c8d08-6729-4fb0-a7b0-15cb0f14b86d",
+    "name": "Diamond Letter (V)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "c20b79b1-5de3-4963-9e4c-5dc0899bf983",
+    "name": "Diamond Letter (W)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "62927ee8-d4d0-4b62-94d0-ab253726d387",
+    "name": "Diamond Letter (Y)",
+    "rarity": "Junk",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "32628a3d-febf-41bb-8212-81088d597d49",
+    "name": "Diamond Ore",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 30,
+    "tags": []
+  },
+  {
+    "uuid": "be424e05-8dc1-46de-bbfd-7cd1e1c01791",
+    "name": "Dice",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 31,
+    "tags": []
+  },
+  {
+    "uuid": "aa150c04-6b4f-4608-989e-1f7b9e9b25c3",
+    "name": "Diet_Cola",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 6,
+    "tags": []
+  },
+  {
+    "uuid": "762ce46d-e01f-43fd-ae77-cf39960eca16",
+    "name": "Dirt Guardian",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "7295e5fd-383f-4ccb-b3df-0485a8b796a3",
+    "name": "Dolphin",
+    "rarity": "Rare",
+    "price": 4,
+    "quantity": 15,
+    "tags": []
+  },
+  {
+    "uuid": "78766478-bb38-413c-841c-198212e9622b",
+    "name": "Donut",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 41,
+    "tags": []
+  },
+  {
+    "uuid": "4821aca1-536c-4d9a-a6af-039eb28c6451",
+    "name": "Dsclouse",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "4d25ec01-33ff-4120-8e1a-a281c9e619ad",
+    "name": "Eel",
+    "rarity": "Uncommon",
+    "price": 1,
+    "quantity": 78,
+    "tags": []
+  },
+  {
+    "uuid": "cb5094e6-d1b9-4a70-8b3e-e718cfd1f8bf",
+    "name": "Enderman",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 34,
+    "tags": []
+  },
+  {
+    "uuid": "dbe27343-cc6e-4e5b-8483-21ffc56c8d88",
+    "name": "Estalian Phoenix",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "3d3a16fe-c62c-4776-83be-ca16e2622f2c",
+    "name": "Exegolian Barracuda",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "da5c38e6-b304-4ee8-b761-cfe898faa0d5",
+    "name": "Exgolian Starfish",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "56d2a627-dc2d-40f1-ab69-f5697305ee19",
+    "name": "Exyrian Guilttripper",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "99be2bbd-2f22-41b6-856c-53ce4f3ca517",
+    "name": "Eye",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 29,
+    "tags": []
+  },
+  {
+    "uuid": "b90c4dd3-0b0b-41ce-93fd-8cfe111b89f2",
+    "name": "Fancy Books",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 34,
+    "tags": []
+  },
+  {
+    "uuid": "17aa43e0-837b-43e6-bcfa-8800bda707b6",
+    "name": "Fish Bowl",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 31,
+    "tags": []
+  },
+  {
+    "uuid": "a46aa99f-e0f4-44f5-b62d-21edf5b62274",
+    "name": "Flounder",
+    "rarity": "Rare",
+    "price": 4,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "1818e019-9361-48a6-be1f-e4184eb7bc0b",
+    "name": "Flower Basket",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 31,
+    "tags": []
+  },
+  {
+    "uuid": "ca638819-4e47-44c6-98f2-9461008d4ecb",
+    "name": "Flower Crown",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 36,
+    "tags": []
+  },
+  {
+    "uuid": "28b03d6c-1064-42fb-8822-0d1d3e518836",
+    "name": "Flowered Stone",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 22,
+    "tags": []
+  },
+  {
+    "uuid": "0ee4925d-906c-4dfc-9279-657427d123aa",
+    "name": "Flowering Bush",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 32,
+    "tags": []
+  },
+  {
+    "uuid": "d8541118-3f82-409a-826f-5254f40fcf29",
+    "name": "Frog",
+    "rarity": "Uncommon",
+    "price": 2,
+    "quantity": 67,
+    "tags": []
+  },
+  {
+    "uuid": "feaeabed-7eed-4fe9-bf88-2db9768bc392",
+    "name": "Frozen Grub",
+    "rarity": "Rare",
+    "price": 4,
+    "quantity": 11,
+    "tags": []
+  },
+  {
+    "uuid": "4281b31f-41ec-4e30-a56e-97726499057b",
+    "name": "Gelatinous Seasnail",
+    "rarity": "Uncommon",
+    "price": 3,
+    "quantity": 10,
+    "tags": []
+  },
+  {
+    "uuid": "84807812-8dfd-47f1-9e87-7ea2ffaeab7e",
+    "name": "Gerobatrachus",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "488e98eb-4904-4bdb-bb83-16a8e5e291ec",
+    "name": "Ghast",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 22,
+    "tags": []
+  },
+  {
+    "uuid": "14e4213c-d49b-4b6f-a188-a6dd74ee431f",
+    "name": "Globe",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 24,
+    "tags": []
+  },
+  {
+    "uuid": "631d1a40-e57f-41ef-814a-a9d3d953385e",
+    "name": "Gmall Crate",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 14,
+    "tags": []
+  },
+  {
+    "uuid": "6840b64f-56e2-428b-8964-7434496c0660",
+    "name": "Gold Jar",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 25,
+    "tags": []
+  },
+  {
+    "uuid": "e2cabb70-274c-4b72-a5f7-4cc00f2d334a",
+    "name": "Gold Ore",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 32,
+    "tags": []
+  },
+  {
+    "uuid": "82639008-29fa-485f-aaee-e5fc70c1be8a",
+    "name": "Gothia Glass Of Blood",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 10,
+    "tags": []
+  },
+  {
+    "uuid": "542e8cc3-440d-449f-a9e5-3397b057e1d4",
+    "name": "Great Exyrian Capybara",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 9,
+    "tags": []
+  },
+  {
+    "uuid": "f60a30d2-2afa-4010-b55f-1b5ad46c9d81",
+    "name": "Green Barb",
+    "rarity": "Uncommon",
+    "price": 2,
+    "quantity": 43,
+    "tags": []
+  },
+  {
+    "uuid": "acc638d2-8e71-4869-966f-01a36ee15b77",
+    "name": "Green Potion",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 31,
+    "tags": []
+  },
+  {
+    "uuid": "6ff6fec3-7ed1-423c-a986-d6da28a2788f",
+    "name": "Guardian",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 36,
+    "tags": []
+  },
+  {
+    "uuid": "0b495407-d283-4717-b829-47bdce30e277",
+    "name": "Gwua",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 5,
+    "tags": []
+  },
+  {
+    "uuid": "4853ae4a-adb9-42bd-bcf2-d4e4f3f2fa42",
+    "name": "Hay Bale",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 30,
+    "tags": []
+  },
+  {
+    "uuid": "47b49efe-c62e-4ceb-9c97-3ad86b117017",
+    "name": "Hedgehog",
+    "rarity": "Rare",
+    "price": 4,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "cd2856f1-97ab-4fa6-bbdc-26ffe5216b2c",
+    "name": "Heikkian Kirby",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "d6686e84-bb05-4204-a570-b8cdd585ca12",
+    "name": "Helios Rune",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "4f3fa994-adbf-4a0d-891b-66cae191177e",
+    "name": "Hermit Crab",
+    "rarity": "Uncommon",
+    "price": 1,
+    "quantity": 127,
+    "tags": []
+  },
+  {
+    "uuid": "c00d7cd4-ee08-4ae0-9b70-e498cef6e1a4",
+    "name": "Hermit Skull Crab",
+    "rarity": "Legendary",
+    "price": 40,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "fc03daa3-9fc0-4728-bfbe-9c3a1dfedde2",
+    "name": "Honey Jar",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 34,
+    "tags": []
+  },
+  {
+    "uuid": "6171fc1f-d12f-47f3-99d8-29e8f54dbba0",
+    "name": "Iamdoktah",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "87293f39-19e7-4608-9ad6-15af093dab53",
+    "name": "Iebagi",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 6,
+    "tags": []
+  },
+  {
+    "uuid": "dd7ad081-6c40-4582-a119-bbc6577a41f8",
+    "name": "Iron Ore",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 35,
+    "tags": []
+  },
+  {
+    "uuid": "9d1ee0d7-8740-45a6-96a3-f2983a8a039b",
+    "name": "Japanese Lamp",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 40,
+    "tags": []
+  },
+  {
+    "uuid": "201588a3-0330-431a-b7d9-5de1bc063b36",
+    "name": "Japanese Lantern",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 38,
+    "tags": []
+  },
+  {
+    "uuid": "76363a54-de97-4b74-b5fd-4d598ab7e119",
+    "name": "Jar Of Dragon'S Breath",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 31,
+    "tags": []
+  },
+  {
+    "uuid": "36467422-1577-49bb-857a-168274dfefcb",
+    "name": "Jar Of Spider Eyes",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 36,
+    "tags": []
+  },
+  {
+    "uuid": "b404279a-ea0a-4c30-ba96-096cac864824",
+    "name": "Jellyfish",
+    "rarity": "Uncommon",
+    "price": 2,
+    "quantity": 56,
+    "tags": []
+  },
+  {
+    "uuid": "917de703-9d64-4690-971f-1361383d9a6e",
+    "name": "Jukebox",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 30,
+    "tags": []
+  },
+  {
+    "uuid": "d16b8906-8e28-4229-a710-6474ab3d26cb",
+    "name": "Kaltsburger",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 10,
+    "tags": []
+  },
+  {
+    "uuid": "a46efe89-3fb3-419a-aca4-882db0079ff6",
+    "name": "Karate Fish",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 10,
+    "tags": []
+  },
+  {
+    "uuid": "676f6214-389f-4793-bc68-e0e1c2e0d1a9",
+    "name": "Kingfish",
+    "rarity": "Uncommon",
+    "price": 3,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "41ee162f-33af-4441-8d5e-1419350bf3d2",
+    "name": "Kingstell",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "04c7fe41-b550-43b6-8036-77a0e3cc05e3",
+    "name": "Koi Carp",
+    "rarity": "Rare",
+    "price": 3,
+    "quantity": 26,
+    "tags": []
+  },
+  {
+    "uuid": "de2536e8-d579-40de-889f-8df57ddc186e",
+    "name": "Ladybug",
+    "rarity": "Rare",
+    "price": 4,
+    "quantity": 7,
+    "tags": []
+  },
+  {
+    "uuid": "1f2835fb-5816-49a3-a4fa-b67d1dc624d4",
+    "name": "Lavender-Touched Crab",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "c77b2949-f9c1-46ac-9ee8-1ea7e3276c1f",
+    "name": "Letter (A)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "21b9a993-f837-42f5-8fbe-8c48f9a49198",
+    "name": "Letter (C)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "76e9bf54-114c-479b-ae83-36bff25dbf7d",
+    "name": "Letter (D)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "50a5a2a8-9c69-4c7c-8951-dc9d398e1d11",
+    "name": "Letter (E)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "4bedc6f4-7cc1-4263-91ed-0a85d6cd3b3b",
+    "name": "Letter (F)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "5751ee54-c8cf-456e-bb0e-277ed5ae532e",
+    "name": "Letter (G)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "66aaf115-da7b-4074-bcff-22aa70f20a72",
+    "name": "Letter (H)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "736e1f4c-19b7-4afc-9fbe-aabc317fbaad",
+    "name": "Letter (I)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "dac13aba-5dba-45b3-8487-a96fbf8fe9f2",
+    "name": "Letter (L)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "bd20e83d-ebd0-4da8-a61e-d8a4599b4bc6",
+    "name": "Letter (M)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "93dad235-1e25-4c1b-a465-3ac0a6350047",
+    "name": "Letter (N)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "6a817802-4265-4e22-b90a-5956795c698e",
+    "name": "Letter (O)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "265d2952-8966-4e65-a597-34411059c048",
+    "name": "Letter (P)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "3abb0c26-6522-459f-b3d3-3326acd5f766",
+    "name": "Letter (R)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "205e5f11-b89f-42b7-be3e-01b0c8059ec9",
+    "name": "Letter (S)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "a5eb1d49-a1ad-4e02-a27f-a9ac864906d2",
+    "name": "Letter (T)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "3a0b0004-79ee-401e-9a95-65dd39a139f1",
+    "name": "Letter (V)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "a24bc735-b94c-444e-823d-b2fe95b6539e",
+    "name": "Letter (W)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "e3c310fd-301e-4267-9551-f516b6b4335f",
+    "name": "Letter (Y)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "bcc522a5-76cd-40f4-9828-1e0254fb3fbb",
+    "name": "Letter (Z)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "e7940ab5-612b-4c06-878d-a73f5b3bfdf8",
+    "name": "Lion Sculpture",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 10,
+    "tags": []
+  },
+  {
+    "uuid": "6d2f35ea-f012-4bba-81a6-95fb75fa7643",
+    "name": "Lucinnefo",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "83263a4c-ee15-4ef2-b9b1-9a7894e93521",
+    "name": "Lusatian Orange",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "7adc70ca-6059-4053-84e9-d588d72947f7",
+    "name": "Lyrean Chunglet",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 15,
+    "tags": []
+  },
+  {
+    "uuid": "e23fa496-4a31-49e6-829d-4a0138ffed14",
+    "name": "Mate Drink",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 29,
+    "tags": []
+  },
+  {
+    "uuid": "d44cdc00-a589-4277-9325-9d291f5bb1ec",
+    "name": "Maxopoly",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "b04da642-5c25-4b7d-a377-3e62895ffb58",
+    "name": "Medkit",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 19,
+    "tags": []
+  },
+  {
+    "uuid": "81060f5b-db79-4fcc-9080-c1bd7b236dcc",
+    "name": "Melon",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 39,
+    "tags": []
+  },
+  {
+    "uuid": "1559030e-e135-417e-8e9b-ba8636ab4201",
+    "name": "Melon Butterflyfish",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "85b685c0-5abb-4ebc-bad7-e2a7aa8ab290",
+    "name": "Melveran Silver Sturgeon",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "00e79137-954b-4302-8695-ba5a77357733",
+    "name": "Mike0War",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "4a84fc0a-1c0f-4f2e-8069-c22a1bf3dfd9",
+    "name": "Ming Vase",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 27,
+    "tags": []
+  },
+  {
+    "uuid": "a22bcdfa-c0f4-410d-8258-40e69a3b9bc1",
+    "name": "Mold",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 32,
+    "tags": []
+  },
+  {
+    "uuid": "80fe88c3-1b04-401b-8a6c-971e88176c2b",
+    "name": "Monument Bank Present",
+    "rarity": "Nation",
+    "price": 6,
+    "quantity": 24,
+    "tags": []
+  },
+  {
+    "uuid": "14e3f05a-6b15-49ca-a5b7-3609851bb0e9",
+    "name": "Mosquito",
+    "rarity": "Rare",
+    "price": 4,
+    "quantity": 14,
+    "tags": []
+  },
+  {
+    "uuid": "e5dd164a-c1d5-498b-86f9-4a3b3bc03d44",
+    "name": "Mrjeremyfisher",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "5fcac890-84c8-4a1d-9744-ddca308414f1",
+    "name": "Newspapers",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 24,
+    "tags": []
+  },
+  {
+    "uuid": "af5e8a5f-b30f-4b4e-bf12-a58762786282",
+    "name": "Nord Company\u2122 Shipping Container",
+    "rarity": "Nation",
+    "price": 6,
+    "quantity": 20,
+    "tags": []
+  },
+  {
+    "uuid": "3863be0f-08d2-4b4d-983d-2d9fd68362de",
+    "name": "Novaceasar",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "0d8fa230-f049-4e5d-ba6a-52bb959bc30c",
+    "name": "Number (0)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 5,
+    "tags": []
+  },
+  {
+    "uuid": "50108da9-51d1-46b1-9247-d8eeae0008d4",
+    "name": "Number (1)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "fda0bfde-07b1-4934-95c0-8b333f9a0320",
+    "name": "Number (2)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "d0a19b90-41e1-485c-8e3b-6f61ff8959a4",
+    "name": "Number (3)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "ab8507d5-39ab-4ad5-ad8f-e2ce3a1ee6c9",
+    "name": "Number (4)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "8f33f115-8634-4deb-988c-b24d51c594d4",
+    "name": "Number (5)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "1a0cd837-4120-4917-bc53-19e9bc42467e",
+    "name": "Number (6)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 9,
+    "tags": []
+  },
+  {
+    "uuid": "4ec344fc-21de-43a5-869d-42164202bcd4",
+    "name": "Number (7)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "40623418-1530-43f3-847e-62a9180ebe3c",
+    "name": "Number (8)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "97d1e4e1-404a-458b-9ae8-8b261f29bb83",
+    "name": "Number (9)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "d72c1da3-3b92-46a3-89c3-23c3b7f475a8",
+    "name": "Octopus",
+    "rarity": "Uncommon",
+    "price": 1,
+    "quantity": 126,
+    "tags": []
+  },
+  {
+    "uuid": "4e818d42-9c16-41fe-9683-4a6eb27e6b06",
+    "name": "Okx",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 5,
+    "tags": []
+  },
+  {
+    "uuid": "d8b233fb-994a-4359-9ba7-6d76fb8b2278",
+    "name": "Old Books",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 32,
+    "tags": []
+  },
+  {
+    "uuid": "793e979b-7a37-49e2-963d-4562b740d856",
+    "name": "Oup The Moo",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 10,
+    "tags": []
+  },
+  {
+    "uuid": "c90aa8f3-62ce-45c9-bb63-9bb9b36ed287",
+    "name": "Owl",
+    "rarity": "Rare",
+    "price": 4,
+    "quantity": 16,
+    "tags": []
+  },
+  {
+    "uuid": "a9ce8fa3-615f-4969-b18a-8f89ddb4be9b",
+    "name": "Paddington_Bear",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "a2460184-59c6-46bf-a6d6-c76d90708a79",
+    "name": "Palmetto Sea Roach",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 5,
+    "tags": []
+  },
+  {
+    "uuid": "a43b2f9d-176b-40a1-95f2-6297149c038e",
+    "name": "Pavian Bob Hat",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "60129e40-3050-4ec4-b137-2f6447a0aba4",
+    "name": "Pavian King Rat",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 9,
+    "tags": []
+  },
+  {
+    "uuid": "a955a067-04a9-42be-9e0b-afad6ee8a5cb",
+    "name": "Penguin",
+    "rarity": "Rare",
+    "price": 4,
+    "quantity": 10,
+    "tags": []
+  },
+  {
+    "uuid": "06c6a623-4dea-404c-ad08-e99e55c745cb",
+    "name": "Perch",
+    "rarity": "Uncommon",
+    "price": 2,
+    "quantity": 45,
+    "tags": []
+  },
+  {
+    "uuid": "9f5cc2c6-63ff-4116-adcd-b2cb7a49939d",
+    "name": "Pescado",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "e82fae19-f410-480c-812e-fae050a29693",
+    "name": "Pigeon",
+    "rarity": "Rare",
+    "price": 4,
+    "quantity": 6,
+    "tags": []
+  },
+  {
+    "uuid": "332c87f1-ff44-450c-bcbd-04d17a8446ef",
+    "name": "Pile Of Books",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 10,
+    "tags": []
+  },
+  {
+    "uuid": "7a3d5242-3cf6-409e-84cd-bc8e93b94d17",
+    "name": "Pile Of Logs",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 29,
+    "tags": []
+  },
+  {
+    "uuid": "30cc1f60-56e9-44ce-b031-8a86992e3881",
+    "name": "Pink Sheep",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 10,
+    "tags": []
+  },
+  {
+    "uuid": "fa7ffa7f-4059-4b4e-8fb8-b015bbd06e92",
+    "name": "Potted Azalea Plant",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 30,
+    "tags": []
+  },
+  {
+    "uuid": "1d1598d2-96eb-4220-8518-db08be835c33",
+    "name": "Potted Bush",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 30,
+    "tags": []
+  },
+  {
+    "uuid": "7ac25c65-0d01-422f-8efc-256f10b9f979",
+    "name": "Potted Camellia Plant",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 28,
+    "tags": []
+  },
+  {
+    "uuid": "b5cb27a5-f7a2-4603-8cf0-4ae868684a78",
+    "name": "Present",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 34,
+    "tags": []
+  },
+  {
+    "uuid": "829b534c-4925-48e5-9aed-e3c95415345c",
+    "name": "Programmerdan",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "17877212-2471-44c1-a3c2-ca039a972d60",
+    "name": "Pumpkin",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 29,
+    "tags": []
+  },
+  {
+    "uuid": "5b24119f-4692-4cb8-b229-a71d594028a7",
+    "name": "Radio",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 35,
+    "tags": []
+  },
+  {
+    "uuid": "8845170e-1087-4efc-9888-0cfbb09e2723",
+    "name": "Rat",
+    "rarity": "Rare",
+    "price": 4,
+    "quantity": 18,
+    "tags": []
+  },
+  {
+    "uuid": "a6892f10-cef1-4199-9046-99d07fc250f8",
+    "name": "Reddevel",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "c50006a6-187c-4293-8cdd-a1a4350e7bdf",
+    "name": "Roving Reggian Coral Grouper",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 15,
+    "tags": []
+  },
+  {
+    "uuid": "7270edec-1378-45a4-bdd3-b75bcaf5c110",
+    "name": "Royal Sharkbun",
+    "rarity": "Nation",
+    "price": 6,
+    "quantity": 21,
+    "tags": []
+  },
+  {
+    "uuid": "bfc76ed1-928e-4c77-89d7-ca56435ef3e5",
+    "name": "Rubiks Cube",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 39,
+    "tags": []
+  },
+  {
+    "uuid": "4d17d3d1-b290-4e51-8905-6121939b42c9",
+    "name": "Salerno Sea Bream",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "89c59864-b895-4f62-91fb-ff5ed5d62bfa",
+    "name": "Salmon Shark",
+    "rarity": "Rare",
+    "price": 4,
+    "quantity": 7,
+    "tags": []
+  },
+  {
+    "uuid": "97326ba4-3b86-4651-8f06-d2239cdfc18d",
+    "name": "Sandcastle",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 39,
+    "tags": []
+  },
+  {
+    "uuid": "cbb3e8d3-d7f8-423c-8345-2e28d823f9d7",
+    "name": "Sapling",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 6,
+    "tags": []
+  },
+  {
+    "uuid": "93aa6146-ead0-4a45-a486-575ed81b594d",
+    "name": "Scamfish",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "f464c897-fd40-4153-bb6e-dcae3bef446d",
+    "name": "Scarecrow Head",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 36,
+    "tags": []
+  },
+  {
+    "uuid": "16e10ed6-1097-4379-86ee-21bf92cbc7f8",
+    "name": "Seagull",
+    "rarity": "Rare",
+    "price": 3,
+    "quantity": 31,
+    "tags": []
+  },
+  {
+    "uuid": "b67581b5-b120-4eef-a419-0e17804d1d80",
+    "name": "Shark",
+    "rarity": "Rare",
+    "price": 3,
+    "quantity": 22,
+    "tags": []
+  },
+  {
+    "uuid": "b0fdaeb0-af6c-45cb-815c-ffdd7a98bc69",
+    "name": "Shiny Pearl (Blue)",
+    "rarity": "Legendary",
+    "price": 40,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "84d7d009-3a10-48e3-9092-59018ec4f28e",
+    "name": "Shiny Pearl (Green)",
+    "rarity": "Legendary",
+    "price": 40,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "ae8824a7-0d4e-4b94-8577-3342aa01e687",
+    "name": "Shiny Pearl (Pearlescent)",
+    "rarity": "Legendary",
+    "price": 64,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "949d09f4-944a-4b5f-921b-e5f9e2f41fa0",
+    "name": "Shiny Pearl (Purple)",
+    "rarity": "Legendary",
+    "price": 40,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "30f7522d-f7a5-4c84-82b5-7ac98d38f4d7",
+    "name": "Shiny Pearl (Violet)",
+    "rarity": "Legendary",
+    "price": 40,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "55a6fa40-9b7b-4d5d-98bf-e12585b90361",
+    "name": "Shiny Pearl (White)",
+    "rarity": "Legendary",
+    "price": 40,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "a98a08ef-bf21-4969-91e1-0f6c7922110c",
+    "name": "Shiny Pearl (Yellow)",
+    "rarity": "Legendary",
+    "price": 40,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "e9eb4098-ba07-4ea2-8670-cae5388150af",
+    "name": "Shrimp",
+    "rarity": "Uncommon",
+    "price": 1,
+    "quantity": 136,
+    "tags": []
+  },
+  {
+    "uuid": "a6628b90-c4ce-4df3-9acc-c0a52b2e830d",
+    "name": "Siberian Carp",
+    "rarity": "Nation",
+    "price": 4,
+    "quantity": 54,
+    "tags": []
+  },
+  {
+    "uuid": "07d6b612-de2d-4427-9242-3af0d66e78b0",
+    "name": "Silver Jar",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 32,
+    "tags": []
+  },
+  {
+    "uuid": "10ef3362-3e35-4f0a-a509-d56e18e7d5db",
+    "name": "Skandic Ram",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 7,
+    "tags": []
+  },
+  {
+    "uuid": "7123f6f8-0d7c-43a5-8f4f-725b58485f74",
+    "name": "Skull",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 42,
+    "tags": []
+  },
+  {
+    "uuid": "991402c0-1786-48a8-ad8f-5336b2ac4a9c",
+    "name": "Slothistan Sloth",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "95ce8d82-0155-4372-964f-66b76600f027",
+    "name": "Snake",
+    "rarity": "Rare",
+    "price": 3,
+    "quantity": 24,
+    "tags": []
+  },
+  {
+    "uuid": "70695a39-c73e-4275-add5-f215e999e227",
+    "name": "Snom",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 15,
+    "tags": []
+  },
+  {
+    "uuid": "90d29a52-8fdb-4065-9ac9-79c26224cf16",
+    "name": "Snook",
+    "rarity": "Uncommon",
+    "price": 3,
+    "quantity": 11,
+    "tags": []
+  },
+  {
+    "uuid": "fd4e0b9a-c0e4-40f6-bd50-99cd28d3305c",
+    "name": "Soul Jar",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 29,
+    "tags": []
+  },
+  {
+    "uuid": "57da0a68-baa1-47c2-9da9-e345383b04b6",
+    "name": "Soundtech",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "21d5d958-6469-4a91-ad87-7a2a13caeb17",
+    "name": "Soup",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 34,
+    "tags": []
+  },
+  {
+    "uuid": "cc080840-3c03-43d1-872f-d2ab277bd39f",
+    "name": "Spiked Hot Chocolate",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "57e90492-0233-4735-af79-e3932f44f1aa",
+    "name": "Spirit Of The Mercutie",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "fc546b59-1c9d-4894-8895-77266dc75de7",
+    "name": "Steelhead Trout",
+    "rarity": "Rare",
+    "price": 4,
+    "quantity": 16,
+    "tags": []
+  },
+  {
+    "uuid": "e92fcca4-b7bf-4bb4-a1de-ea8ff746e86f",
+    "name": "Sturgeon",
+    "rarity": "Rare",
+    "price": 3,
+    "quantity": 32,
+    "tags": []
+  },
+  {
+    "uuid": "598b39e9-552b-4588-bba0-d09547ec1db4",
+    "name": "Sugar Jar",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 25,
+    "tags": []
+  },
+  {
+    "uuid": "d7ebd383-4c17-4b9c-8c10-412344bb1dcb",
+    "name": "Sunfish Sanctum",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 11,
+    "tags": []
+  },
+  {
+    "uuid": "8c06fd91-4236-476d-86e4-d419ca8b0a32",
+    "name": "Surmadri Aurora Starfish",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "e58005af-7fa6-4282-916b-100bd16f5e40",
+    "name": "Sushi",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 40,
+    "tags": []
+  },
+  {
+    "uuid": "bcbf5d74-d220-4689-88cd-9b462c5da44e",
+    "name": "Symbol (!)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "3ef9ac15-d4bc-4fc5-9dc2-8a93c0fbc922",
+    "name": "Symbol (+)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "61a38485-baa5-4a48-a972-1edadc5e8ddf",
+    "name": "Symbol (:)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "343b2442-2bb1-451c-b110-a02c0624a610",
+    "name": "Symbol (=)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "278b5d69-247f-4cf3-88b3-649a5f2d7055",
+    "name": "Symbol (?)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "b8d8e8ad-bc03-43d3-8631-e4e5c56094e6",
+    "name": "Symbol (Down Arrow)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "2586d012-21fd-41be-8a59-a2e5e48d8edf",
+    "name": "Symbol (Down Left Arrow)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "0bde86e7-90a7-4b3a-914d-347be22d1a3d",
+    "name": "Symbol (Down Right Arrow)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "bb3f2a24-6ecc-4433-92c2-8f327c76e982",
+    "name": "Symbol (Left Arrow)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "c31ebf10-0429-4d4f-8257-50ccf0ed2347",
+    "name": "Symbol (Right Arrow)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "7047c1b1-9cd3-4d39-a727-5115ee5c97ea",
+    "name": "Symbol (Up Arrow)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "4235128b-13e5-4ca3-ad94-97c8d921fb41",
+    "name": "Symbol (Up Left Arrow)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "27dfa82c-12cf-48d7-a428-0c637eece9cc",
+    "name": "Symbol (Up Right Arrow)",
+    "rarity": "Junk",
+    "price": 4,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "6d2a395a-6044-4992-976b-5833471414c0",
+    "name": "Taco",
+    "rarity": "Junk",
+    "price": 2,
+    "quantity": 23,
+    "tags": []
+  },
+  {
+    "uuid": "8cabed3f-d507-4afc-b493-3868fe01d06f",
+    "name": "Tealnerd - Civclassics",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "320bfc39-f2f7-4f75-911c-0ae296bacc46",
+    "name": "Temporal Tuna",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "dbe9f256-f3db-4ee5-ab1f-79a5a52a07b6",
+    "name": "Test Tubes",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 33,
+    "tags": []
+  },
+  {
+    "uuid": "5053d6c4-f88a-49e1-998d-cebe5dcfbc81",
+    "name": "The Iaumean Ghostfish",
+    "rarity": "Nation",
+    "price": 7,
+    "quantity": 10,
+    "tags": []
+  },
+  {
+    "uuid": "0fd56778-973f-4ab8-90e3-12ed6c731f81",
+    "name": "The Voldi Stag",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "de0f505c-5529-467e-b159-fa8594398406",
+    "name": "Thi Sang Present",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 6,
+    "tags": []
+  },
+  {
+    "uuid": "3420fd03-302a-48c1-be8f-c5222b110057",
+    "name": "Thymmy Crown",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "f1ad2335-512b-46a9-bec9-ec2be1cb8df6",
+    "name": "Tnt",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 28,
+    "tags": []
+  },
+  {
+    "uuid": "693477e5-7a96-4527-a186-85eb36219aa9",
+    "name": "Togoshigekata",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "f1aa52b6-e5c7-4c23-ae97-c68e839ef7fe",
+    "name": "Toontown Cat Fish",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "8f9cde85-1361-4cb0-a86d-8e2cf46f6950",
+    "name": "Toontown Dog Fish",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "72744fef-f0ba-4f6d-b2f4-7bb09d3a8783",
+    "name": "Toontown Jellybeans",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 5,
+    "tags": []
+  },
+  {
+    "uuid": "c54ff647-4439-410d-ba4d-c6e261a2c006",
+    "name": "Tradespin",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "8e01538f-16ca-4599-a11f-d53bafe07448",
+    "name": "Traffic Light (Down Arrow)",
+    "rarity": "Junk",
+    "price": 6,
+    "quantity": 7,
+    "tags": []
+  },
+  {
+    "uuid": "a4e4a7fc-d6fb-4dd3-b693-10d0ec0503b1",
+    "name": "Traffic Light (Left Arrow)",
+    "rarity": "Junk",
+    "price": 6,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "15f845ef-aa18-4d46-8908-b7b9c4e60159",
+    "name": "Traffic Light (Right Arrow)",
+    "rarity": "Junk",
     "price": 6,
     "quantity": 3,
     "tags": []
   },
   {
-    "uuid": "739576a4-6af1-4091-9d0d-4714fccec5e1",
-    "name": "Amboise Token",
+    "uuid": "fef8d871-e6ff-494e-b489-3941518963b6",
+    "name": "Traffic Light (Up Arrow)",
+    "rarity": "Junk",
+    "price": 6,
+    "quantity": 1,
+    "tags": []
+  },
+  {
+    "uuid": "d133f969-6c64-4211-af67-56d5a0131883",
+    "name": "Traffic Light (X)",
+    "rarity": "Junk",
+    "price": 6,
+    "quantity": 5,
+    "tags": []
+  },
+  {
+    "uuid": "ed59f6dc-33a5-4b92-8166-332300ff949f",
+    "name": "Trash Can",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 33,
+    "tags": []
+  },
+  {
+    "uuid": "64a795d3-644c-4061-b9a1-c04db8fbe289",
+    "name": "Trizzzx",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 3,
+    "tags": []
+  },
+  {
+    "uuid": "9e5c1485-90fd-4b5e-a8c3-4efef8400759",
+    "name": "Ttastic",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 5,
+    "tags": []
+  },
+  {
+    "uuid": "6c4e0f1d-cab4-44cf-8352-b353ffc15569",
+    "name": "Ttk2",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 6,
+    "tags": []
+  },
+  {
+    "uuid": "ad18618d-bffd-4422-8009-825a647c6c87",
+    "name": "Tuna",
+    "rarity": "Uncommon",
+    "price": 2,
+    "quantity": 25,
+    "tags": []
+  },
+  {
+    "uuid": "9aa8d97b-3621-4809-8c2d-07c38e09e0af",
+    "name": "Tutelle",
     "rarity": "Nation",
+    "price": 8,
+    "quantity": 4,
+    "tags": []
+  },
+  {
+    "uuid": "09c60f21-a794-4fe0-8517-ab2c66e9fb05",
+    "name": "Tv Monitor",
+    "rarity": "Junk",
+    "price": 3,
+    "quantity": 25,
+    "tags": []
+  },
+  {
+    "uuid": "77246128-f411-4612-91d1-66fabb5c2cde",
+    "name": "Verdan Sun Dragon Fish",
+    "rarity": "Nation",
+    "price": 6,
+    "quantity": 23,
+    "tags": []
+  },
+  {
+    "uuid": "7569d720-799c-45b1-8e28-8ea0bcd9140e",
+    "name": "Vinnish Helmet",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "2b9041ca-2ac3-4198-9c86-23a4302f5e43",
+    "name": "Volterran Rabid Beaver",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 6,
+    "tags": []
+  },
+  {
+    "uuid": "8e75980b-41dc-4dd1-8977-b6b301d24362",
+    "name": "Voltuna",
+    "rarity": "Nation",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "8b67cc47-fe14-4c83-9ddc-7bfce7dc8ec1",
+    "name": "Warning Lamp (Green)",
+    "rarity": "Junk",
+    "price": 5,
+    "quantity": 15,
+    "tags": []
+  },
+  {
+    "uuid": "8bec8ca3-6fd5-45c1-8893-9354f648b29b",
+    "name": "Warning Lamp (Red)",
+    "rarity": "Junk",
     "price": 5,
     "quantity": 10,
     "tags": []
   },
   {
-    "uuid": "c64e6321-cf46-42df-a323-044399761f30",
-    "name": "Anchovy",
-    "rarity": "Uncommon",
-    "price": 4,
-    "quantity": 12,
+    "uuid": "4a9a6424-8c9a-4a30-a644-0af7907077f1",
+    "name": "Warning Lamp (Yellow)",
+    "rarity": "Junk",
+    "price": 5,
+    "quantity": 11,
     "tags": []
   },
   {
-    "uuid": "44500476-bcc8-4a66-b50e-73994b148382",
-    "name": "Ancient Debris",
+    "uuid": "706af34b-3bab-425f-8c62-253976304827",
+    "name": "Water Basin",
     "rarity": "Junk",
     "price": 3,
-    "quantity": 15,
-    "tags": []
-  },
-  {
-    "uuid": "7fb2c747-44e9-436b-93d1-0da9f524fa78",
-    "name": "Ancient Delian Bust",
-    "rarity": "Nation",
-    "price": 2,
-    "quantity": 4,
-    "tags": []
-  },
-  {
-    "uuid": "d2d31808-637a-4428-abc3-bda3fcbe6527",
-    "name": "Anemonae",
-    "rarity": "Rare",
-    "price": 1,
-    "quantity": 18,
-    "tags": []
-  },
-  {
-    "uuid": "08b61d4c-3b86-4672-bca8-77b340fbf31e",
-    "name": "Apple",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 31,
-    "tags": []
-  },
-  {
-    "uuid": "e3fd3356-e220-412f-8db7-3b2d244d91a4",
-    "name": "Arctic Lamprey",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 5,
-    "tags": []
-  },
-  {
-    "uuid": "8c8561b3-6ef4-4f10-aabc-61bda2de5bb8",
-    "name": "Armadillo",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 4,
-    "tags": []
-  },
-  {
-    "uuid": "8aa98f90-5b88-4d98-88f3-1258a9b5a5ec",
-    "name": "Artonian Pupfish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 7,
-    "tags": []
-  },
-  {
-    "uuid": "44aef06b-5a7c-4318-921e-c6215d958775",
-    "name": "Arxian Cogfin",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 6,
-    "tags": []
-  },
-  {
-    "uuid": "e8f912e4-3cc7-4a09-95f6-0db0322225a6",
-    "name": "Aspasian Ichthyosaur",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 8,
-    "tags": []
-  },
-  {
-    "uuid": "b0ad032e-3579-4fcd-a2ec-8010be1f9fc6",
-    "name": "Astolfo Bean",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "16d20c51-4760-4c7e-b887-c76df328d2af",
-    "name": "Astrotx",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "5f8a988c-f49e-4550-8c2b-f9774f1f6504",
-    "name": "Auroran Dragonfish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "93375eaf-66d3-4fe9-9408-1ab5db4644ec",
-    "name": "Auroran Stampyfish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "0f229aa1-a118-45a0-b2be-48091e77465b",
-    "name": "Auroran Sunleaker",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 4,
-    "tags": []
-  },
-  {
-    "uuid": "cd19aef4-009c-44ec-b5b1-0ccdad89e481",
-    "name": "Auroran Sunleaker",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "a58956b8-1331-48b7-bec2-45eb9bf60b5b",
-    "name": "Bag Of Diamonds",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 11,
-    "tags": []
-  },
-  {
-    "uuid": "d74193ba-e7d1-4055-b157-37e7e7112624",
-    "name": "Bag Of Gold Coins",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 24,
-    "tags": []
-  },
-  {
-    "uuid": "4dd6b7fc-3561-4fbd-81d6-3b4709abe94f",
-    "name": "Barracuda",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 13,
-    "tags": []
-  },
-  {
-    "uuid": "6db7ab3e-370f-439f-bb5a-002e55b5cd9d",
-    "name": "Barrel",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 21,
-    "tags": []
-  },
-  {
-    "uuid": "a36cb418-3cba-4ace-8738-875f1df16d16",
-    "name": "Basaltington Frogfish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 20,
-    "tags": []
-  },
-  {
-    "uuid": "f31dc092-a30d-4544-b36a-03ee45a0578b",
-    "name": "Beach Ball",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 20,
-    "tags": []
-  },
-  {
-    "uuid": "ec8a3e17-7f23-49b7-8b5b-6f654eeb2a55",
-    "name": "Beetle",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 8,
-    "tags": []
-  },
-  {
-    "uuid": "8808be2c-ee0d-49fa-aedf-a32b7a694532",
-    "name": "Belgian Beer",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 36,
-    "tags": []
-  },
-  {
-    "uuid": "2a539347-fa67-4a11-ad4d-c28b87e2adb1",
-    "name": "Betta",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 12,
-    "tags": []
-  },
-  {
-    "uuid": "9106448a-c2b6-437f-8817-988c19607507",
-    "name": "Bird House",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 13,
-    "tags": []
-  },
-  {
-    "uuid": "7725c3af-4cef-4f51-afe3-fbe3c64ff5d7",
-    "name": "Blaze",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 29,
-    "tags": []
-  },
-  {
-    "uuid": "e3028efe-84d7-4a6f-b083-8c67a1552730",
-    "name": "Blob",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "a2b8bbb5-bc51-4a43-bcc2-f739a086a87a",
-    "name": "Blue Catfish",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 33,
-    "tags": []
-  },
-  {
-    "uuid": "0cd18497-6911-4d88-bc5c-420f491599df",
-    "name": "Blue Frog",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "010d10db-e6e3-4bec-ab58-dc744d3dbed4",
-    "name": "Bonkill",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "b72db65b-ae00-4024-a51e-1da61b4ddaf2",
-    "name": "Bottle O\u2019 Whiskey",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "9e863250-3290-4765-a58f-40e62ae92a44",
-    "name": "Box Of Documents",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 24,
-    "tags": []
-  },
-  {
-    "uuid": "ebf8af54-e503-4e83-834f-a0f281aafb6b",
-    "name": "Bread",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 23,
-    "tags": []
-  },
-  {
-    "uuid": "66288f41-cc01-434e-b9ca-84f5cbb1d764",
-    "name": "Britishwanderer",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "d21d2f79-1fab-400a-bc56-71e4eae9c404",
-    "name": "Bronze Jar",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 23,
-    "tags": []
-  },
-  {
-    "uuid": "3e416ae0-0616-4c8a-9852-d34d0b511527",
-    "name": "Builder Bee",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "9e82784e-4f18-4b9b-bbad-781e6af6819a",
-    "name": "Burger",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 11,
-    "tags": []
-  },
-  {
-    "uuid": "a5727289-d302-4382-ab5d-2105e06c67dd",
-    "name": "Camera",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 21,
-    "tags": []
-  },
-  {
-    "uuid": "6b7afa80-0155-4ce0-b6c9-c4e790d26a86",
-    "name": "Cardboard Box",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 23,
-    "tags": []
-  },
-  {
-    "uuid": "411caa02-c85e-4655-b2fd-122476a87f05",
-    "name": "Catiststudy",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "009fcef9-333a-4be4-b8d0-473ec468a82a",
-    "name": "Chest",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 28,
-    "tags": []
-  },
-  {
-    "uuid": "80cab41e-30cb-411b-87e0-4805cfcb1eb1",
-    "name": "Clam",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 104,
-    "tags": []
-  },
-  {
-    "uuid": "07b3c842-c5fa-4f94-bc49-c7722884bcc3",
-    "name": "Clean Clothes",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 19,
-    "tags": []
-  },
-  {
-    "uuid": "bdb9f4d8-04b0-430d-a416-03606093b8cd",
-    "name": "Clock",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 22,
-    "tags": []
-  },
-  {
-    "uuid": "c8b49c0d-6dc8-49db-9610-e283e522daf2",
-    "name": "Coconut",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 27,
-    "tags": []
-  },
-  {
-    "uuid": "c2793ca8-3469-4488-aa52-3ae3f610d7f4",
-    "name": "Compass",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 22,
-    "tags": []
-  },
-  {
-    "uuid": "45e33cbc-8b9f-448f-a213-1892725f3240",
-    "name": "Cookie Jar",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 25,
-    "tags": []
-  },
-  {
-    "uuid": "32832025-58de-4daf-b4fc-bd03718b1113",
-    "name": "Cortesian Cod",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "6ad7c71f-b858-447d-b12c-49839a072739",
-    "name": "Crab",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 96,
-    "tags": []
-  },
-  {
-    "uuid": "d0f9395a-e802-4cd5-aae6-7f65050e43a0",
-    "name": "Crate Of Food",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 30,
-    "tags": []
-  },
-  {
-    "uuid": "dbb45da1-0b03-41cf-958d-67d8c3298dd3",
-    "name": "Creepi0N",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "50c77851-d1b0-4c97-91b8-cedd6fc366d4",
-    "name": "Crimeo",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "849c4863-e4f6-43cf-b3a7-715d2bc5fc78",
-    "name": "Crown Of Pavia",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 5,
-    "tags": []
-  },
-  {
-    "uuid": "47716547-dc3f-4a2a-82cf-3ff8e682c5b0",
-    "name": "Cup Of Tea",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 23,
-    "tags": []
-  },
-  {
-    "uuid": "226d0dd1-b885-4c6a-88e6-846e708c7749",
-    "name": "Deluvian Anglerfish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 8,
-    "tags": []
-  },
-  {
-    "uuid": "344c7cf9-622a-4f2e-9410-15031e667d7b",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "6d517666-0cdd-4010-b6a6-882027ad61ea",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "4d8c1097-4ea4-4fc6-9830-be316ad2a2eb",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "9d5b9a78-7810-4599-ab09-b71cd9b37c16",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "70df6bca-7836-402d-9f2b-4c324e6a7c61",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "f35d8b64-8f31-4ed6-a998-36959adcd76e",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "c0d15fee-accd-42b0-9edf-d5fcc156383a",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "d9619755-7baf-497b-94b3-237e8dcfb687",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "f5daa997-f1da-4119-8402-4e0fd57816ce",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "ca71b51d-39f9-43c1-b045-c3948c735ae6",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "247154d8-4e76-4ddd-aab1-8e53db34b9e7",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "8f0fbeca-00e5-4324-8b8f-b1bc792c2ae9",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "4ea68747-ce0e-4d98-9106-77fa8f0009bf",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "cbaf0ba9-7206-4f71-a539-a3e399ca946a",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "a0b6ccb3-af6e-4816-b0c2-ff51e38a834c",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "86bb1b75-3657-43f2-a873-7f0fc8dacfab",
-    "name": "Diamond Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "10b13799-6de5-494a-b0b2-4a551c737716",
-    "name": "Diamond Ore",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 22,
-    "tags": []
-  },
-  {
-    "uuid": "9d5e9334-e5e2-4578-8ac3-3cfa2f6a8f78",
-    "name": "Dice",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 19,
-    "tags": []
-  },
-  {
-    "uuid": "c5f8e3ef-fe83-4a17-a181-0af65e8eb910",
-    "name": "Diet_Cola",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 4,
-    "tags": []
-  },
-  {
-    "uuid": "8cee2fed-2fd7-4bc7-94b2-de93a37cdfa2",
-    "name": "Doctor Fish",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 28,
-    "tags": []
-  },
-  {
-    "uuid": "5f823e26-0cb9-45cd-8f3c-60ffcf16cd8e",
-    "name": "Dolphin",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 11,
-    "tags": []
-  },
-  {
-    "uuid": "f54cb8cf-1f17-47b6-8173-5fe1d13f9d12",
-    "name": "Donut",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 25,
-    "tags": []
-  },
-  {
-    "uuid": "1e6e2a0a-6627-41ef-bcb3-cbd1675fb539",
-    "name": "Dsclouse",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "b8f0fe95-5a8d-4c02-ba02-10e62095be57",
-    "name": "Eel",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 65,
-    "tags": []
-  },
-  {
-    "uuid": "1de30bc7-ec83-402a-8c81-bd695493c5ec",
-    "name": "Enderman",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 25,
-    "tags": []
-  },
-  {
-    "uuid": "63c10c6b-47bf-42ba-ab2e-bd5def123517",
-    "name": "Estalian Phoenix",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "8b8eda77-90fa-4401-a772-3ab82f750a2c",
-    "name": "Exegolian Barracuda",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "bc16ab15-fdb8-438a-afa7-9a6155b4a11a",
-    "name": "Exgolian Starfish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 4,
-    "tags": []
-  },
-  {
-    "uuid": "cc3e6e0a-f8ef-4ae2-b490-048aaa4e8fc4",
-    "name": "Exyrian Guilttripper",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "cfda3940-1b08-4ef5-a03b-d3f6be40e58d",
-    "name": "Eye",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 20,
-    "tags": []
-  },
-  {
-    "uuid": "40aea5b5-642a-41f0-90eb-2f393b5ca676",
-    "name": "Fancy Books",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 27,
-    "tags": []
-  },
-  {
-    "uuid": "1ad8ae90-c8ae-41be-97ea-324e272200f4",
-    "name": "Fish Bowl",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 22,
-    "tags": []
-  },
-  {
-    "uuid": "d259a68e-9898-40a7-bd90-fe7f572a1cd1",
-    "name": "Flounder",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "85cc5784-730c-4575-9d29-158c14f4b0ae",
-    "name": "Flower Basket",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 19,
-    "tags": []
-  },
-  {
-    "uuid": "daf845f1-917f-4a29-948c-7512883aa51f",
-    "name": "Flower Crown",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 25,
-    "tags": []
-  },
-  {
-    "uuid": "c4a74857-688b-4b15-8246-f03624c53a8c",
-    "name": "Flowered Stone",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 17,
-    "tags": []
-  },
-  {
-    "uuid": "b993b435-834d-4a37-aa83-90fd3be6c67f",
-    "name": "Flowering Bush",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 23,
-    "tags": []
-  },
-  {
-    "uuid": "b6d189ad-5066-42bf-b6ae-c8b8862bcd7c",
-    "name": "Frog",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 48,
-    "tags": []
-  },
-  {
-    "uuid": "1be684f7-2644-46b1-b5c6-450dea6b977b",
-    "name": "Frozen Grub",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 8,
-    "tags": []
-  },
-  {
-    "uuid": "322559c6-3cff-43d6-9a5c-a15b628d4089",
-    "name": "Gelatinous Seasnail",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 7,
-    "tags": []
-  },
-  {
-    "uuid": "21c46dc8-9031-4356-8f47-b15f5f78974d",
-    "name": "Gerobatrachus",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "b8c113de-1bc3-4134-bd05-6bf3d6484719",
-    "name": "Ghast",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 18,
-    "tags": []
-  },
-  {
-    "uuid": "57555d3a-497b-40e4-888e-9e061a3aed7a",
-    "name": "Globe",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 18,
-    "tags": []
-  },
-  {
-    "uuid": "70bfb755-3842-4488-9148-1800a2ce71a4",
-    "name": "Gmall Crate",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 14,
-    "tags": []
-  },
-  {
-    "uuid": "8815f61a-97c5-4f61-a4fb-aaae770877ff",
-    "name": "Gold Jar",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 15,
-    "tags": []
-  },
-  {
-    "uuid": "f6e75e60-dfa9-431d-acb0-b93c6c2f46c8",
-    "name": "Gold Ore",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 23,
-    "tags": []
-  },
-  {
-    "uuid": "a70ecfa1-aa07-4503-ae31-17123e42b6cd",
-    "name": "Gothia Glass Of Blood",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 10,
-    "tags": []
-  },
-  {
-    "uuid": "ececb293-12cb-47df-b25e-837ec8515523",
-    "name": "Great Exyrian Capybara",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 5,
-    "tags": []
-  },
-  {
-    "uuid": "0f07d74c-e3da-4a90-98eb-0479bafe5bb9",
-    "name": "Green Potion",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 22,
-    "tags": []
-  },
-  {
-    "uuid": "8c8040b0-ec62-4a86-bd7f-a2195b10e29e",
-    "name": "Guardian",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 30,
-    "tags": []
-  },
-  {
-    "uuid": "5d78c1e1-0d38-4a1c-9000-28d98ff3c662",
-    "name": "Gwua",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 5,
-    "tags": []
-  },
-  {
-    "uuid": "eef94fec-2c43-40c1-bc1f-3fe83d589fb8",
-    "name": "Hay Bale",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 27,
-    "tags": []
-  },
-  {
-    "uuid": "0d752852-78ea-4a0c-ae9d-0df47df68f44",
-    "name": "Hedgehog",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 4,
-    "tags": []
-  },
-  {
-    "uuid": "57568535-8575-457b-9e05-44ba9e7043fe",
-    "name": "Heikkian Kirby",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "e0762fe8-8643-453f-952e-ddbf5ba7e7db",
-    "name": "Helios Rune",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "5fd584c1-858e-4d08-a5ae-155b1086eab5",
-    "name": "Hermit Crab",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 91,
-    "tags": []
-  },
-  {
-    "uuid": "acbf3da8-efb0-4bd6-87b8-2d0a097c6203",
-    "name": "Hermit Skull Crab",
-    "rarity": "Legendary",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "e1654d06-4a18-4fe3-88c1-a719dc01e2a2",
-    "name": "Honey Jar",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 30,
-    "tags": []
-  },
-  {
-    "uuid": "4f3107d3-79db-4980-860b-34a0adccaf13",
-    "name": "Iamdoktah",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "7e1ceeca-99a5-4e77-ad53-13ce9345b84b",
-    "name": "Iebagi",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "b72f2e3c-fae8-4f0c-ad74-cce2d8834577",
-    "name": "Iron Ore",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 28,
-    "tags": []
-  },
-  {
-    "uuid": "ef4ae7f3-0403-4015-9978-74b0c876f688",
-    "name": "Japanese Lamp",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 32,
-    "tags": []
-  },
-  {
-    "uuid": "21b82ed8-dc35-41e0-b29d-22f1ab85279e",
-    "name": "Japanese Lantern",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 26,
-    "tags": []
-  },
-  {
-    "uuid": "055a140d-7906-4c68-8541-97fbc57f136b",
-    "name": "Jar Of Dragon'S Breath",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 23,
-    "tags": []
-  },
-  {
-    "uuid": "fd84b45a-d26c-4615-9263-3794ca03ce49",
-    "name": "Jar Or Spider Eyes",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 28,
-    "tags": []
-  },
-  {
-    "uuid": "2d4b0194-6f57-4f1e-ae2e-011d7e365686",
-    "name": "Jellyfish",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 37,
-    "tags": []
-  },
-  {
-    "uuid": "55acc259-ec4c-4113-a578-2c95c07c7300",
-    "name": "Jukebox",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 20,
-    "tags": []
-  },
-  {
-    "uuid": "8af1785d-fc40-4823-8d1d-2805088508da",
-    "name": "Kaltsburger",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 9,
-    "tags": []
-  },
-  {
-    "uuid": "42889324-8199-43d4-a1fc-0d30fb0d0f83",
-    "name": "Karate Fish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 7,
-    "tags": []
-  },
-  {
-    "uuid": "80c7ecaf-61c3-419c-948d-6c8d59528d52",
-    "name": "Kingfish",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "b9eb0bad-bd1c-4a6a-800b-617a83580e19",
-    "name": "Kingstell",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "66a1f824-c005-4b6e-a2b0-26e207f55883",
-    "name": "Koi Carp",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 19,
-    "tags": []
-  },
-  {
-    "uuid": "0cc94164-cb89-482d-a46c-87a215338eb3",
-    "name": "Ladybug",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 5,
-    "tags": []
-  },
-  {
-    "uuid": "5dc64d1a-1f92-4f6b-bac7-78ef3f5cfa7d",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "f03c330a-54b9-49b8-947c-9dc134994176",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "07266b4e-b86e-4644-b180-4050ad33f7d4",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 4,
-    "tags": []
-  },
-  {
-    "uuid": "6a9e5ef5-2ad7-4f70-b635-001c88d55a3b",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "1c2aa189-12a5-4121-984c-65385f6b2f0b",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "f4cdf13d-7d0c-4a28-aa65-d4d66db10158",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "f653af3f-471a-4f4c-b7a6-a9d9dc7837cf",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "e2622d5b-81d9-4ac8-9372-3625ed8f040a",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "b15e0a1c-b6c9-4177-a480-e1169cc54961",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "c314f7a2-3e0b-42d2-9822-397d4b9d30cd",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "9aef4f13-4709-4536-95f6-a53c285118de",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "a2702f46-9b0f-4dfa-9771-d9f20e843a08",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "8d31e7bf-6dc6-4da2-a12e-873334ffd728",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "08251a79-4612-405f-abaf-1f7ac77b1b92",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "dcc247cb-8a84-4d9d-a91d-0a1496375808",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "c82f2333-24d8-4066-be77-c510a344b3ab",
-    "name": "Letter",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "97824239-60ce-42a4-a857-8399b1b2f0f8",
-    "name": "Lion Sculpture",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 10,
-    "tags": []
-  },
-  {
-    "uuid": "c1d51642-8d0d-4de4-a425-8df59c8ad3d8",
-    "name": "Lucinnefo",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "71d1ac7e-252d-4571-b5df-5a5ef56ef8fa",
-    "name": "Lyrean Chunglet",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 10,
-    "tags": []
-  },
-  {
-    "uuid": "7f60a6fb-1d88-4681-a1ef-afd0cb6c2080",
-    "name": "Lyrean Melon Fish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 24,
-    "tags": []
-  },
-  {
-    "uuid": "6a29cd04-485d-4726-a536-446356f8fc5b",
-    "name": "Mate Drink",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 22,
-    "tags": []
-  },
-  {
-    "uuid": "6b959a0e-8c4c-4d5c-8328-621a8ea38474",
-    "name": "Maxopoly",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "61e1e49b-ee02-49e8-99a2-8240f9043214",
-    "name": "Medkit",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 15,
-    "tags": []
-  },
-  {
-    "uuid": "be02caa5-1dfe-408b-a2bc-d2bc7a2bc198",
-    "name": "Melon",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 27,
-    "tags": []
-  },
-  {
-    "uuid": "d093a9d8-67ab-4100-ad05-a3c14f37eb53",
-    "name": "Melon Butterflyfish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "8cfd5a84-e28f-47dd-a407-435b471a86ec",
-    "name": "Mike0War",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "1b6880c1-8357-46ef-8c78-1808cc417621",
-    "name": "Ming Vase",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 15,
-    "tags": []
-  },
-  {
-    "uuid": "9a36bae5-58d0-4139-9ece-b4191b279fb0",
-    "name": "Mold",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 25,
-    "tags": []
-  },
-  {
-    "uuid": "36785afa-44bc-4311-a6e4-b78e6aba092d",
-    "name": "Monitor",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 17,
-    "tags": []
-  },
-  {
-    "uuid": "72d4552e-6c42-4afd-ac50-03fc2d2fc706",
-    "name": "Monitor",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 16,
-    "tags": []
-  },
-  {
-    "uuid": "d69f2ce4-1d30-46cf-9ba6-366a76a3f1b9",
-    "name": "Monument Bank Present",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 20,
-    "tags": []
-  },
-  {
-    "uuid": "8ee3db84-cdd2-48c6-86cf-27ae7fb87175",
-    "name": "Mosquito",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 8,
-    "tags": []
-  },
-  {
-    "uuid": "7c7eb1d9-6bce-4572-ac17-7ed5c340e82b",
-    "name": "Mrjeremyfisher",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "ac812cca-983d-4599-af36-327ce736dfed",
-    "name": "Newspapers",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 18,
-    "tags": []
-  },
-  {
-    "uuid": "9c62b690-eb2b-4129-bfe5-3a09f2669e7c",
-    "name": "Nord Company\u2122 Shipping Container",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 14,
-    "tags": []
-  },
-  {
-    "uuid": "7ae56679-d2bc-4ae4-923d-4575e237798c",
-    "name": "Number",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 9,
-    "tags": []
-  },
-  {
-    "uuid": "ee8df975-9c7f-4bdf-8317-1c7fa0f736fa",
-    "name": "Number",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "fc74c103-f965-4358-9bf5-d432f0411623",
-    "name": "Number",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "1fb5b9d5-4056-4087-a59e-d07b644a15ca",
-    "name": "Number",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "0f288edc-c2a3-42a3-a748-b39a832d9e6c",
-    "name": "Number",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "befa4357-065a-49e2-9a75-9d0bd0511ae4",
-    "name": "Number",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "67d28daa-c0df-41a5-800e-924a09331b27",
-    "name": "Number",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "b57939d4-8b33-40ea-b533-9d55e8db9322",
-    "name": "Number",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 5,
-    "tags": []
-  },
-  {
-    "uuid": "269f855f-1535-4be6-8df0-d5dc06b9672d",
-    "name": "Number",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "d518ac22-ae71-4e25-82f2-05e658a388fd",
-    "name": "Number",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "f8d6087e-49b9-4a0d-87e1-57b62768aae0",
-    "name": "Octopus",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 94,
-    "tags": []
-  },
-  {
-    "uuid": "14302816-5291-4ea0-8fd3-a7844f1ec08e",
-    "name": "Okx",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "2a76e31d-37db-473b-91eb-5d2df4ef28b5",
-    "name": "Old Books",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 21,
-    "tags": []
-  },
-  {
-    "uuid": "117c1f85-9464-43ea-a546-16518ef81c39",
-    "name": "Oup The Moo",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 7,
-    "tags": []
-  },
-  {
-    "uuid": "16b48d44-8712-48df-92f7-d75b88dbc5dc",
-    "name": "Owl",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 16,
-    "tags": []
-  },
-  {
-    "uuid": "30c28336-6c2b-443b-af5e-7d114949e9ed",
-    "name": "Paddington_Bear",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "5b754cbd-e31d-4b21-b2ef-c9d0234ef3c5",
-    "name": "Palmetto Sea Roach",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 5,
-    "tags": []
-  },
-  {
-    "uuid": "d0dd1c2a-9a2b-49e3-985e-e43a3fcd8fbd",
-    "name": "Pavian Bob Hat",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "a4e15391-5b2b-477a-b77d-529b87012f5e",
-    "name": "Pavian King Rat",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "d3dd35ce-5c90-47af-bf53-d3a050d52e37",
-    "name": "Penguin",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 7,
-    "tags": []
-  },
-  {
-    "uuid": "cb9e5d5f-4f0e-4b42-b2d4-a6aa2b25027e",
-    "name": "Perch",
-    "rarity": "Uncommon",
-    "price": 0,
     "quantity": 38,
     "tags": []
   },
   {
-    "uuid": "094334f9-15ba-4f98-b69f-0baf6370a651",
-    "name": "Pigeon",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 6,
-    "tags": []
-  },
-  {
-    "uuid": "c51b1d72-4785-47f8-97e6-04ea35371157",
-    "name": "Pile Of Books",
+    "uuid": "8c398eef-250b-43bf-816f-b2ebd4c04a68",
+    "name": "Wildberry Pie",
     "rarity": "Junk",
-    "price": 0,
-    "quantity": 19,
-    "tags": []
-  },
-  {
-    "uuid": "5ba75ff5-0691-47d4-96aa-47c363e8f5ae",
-    "name": "Pile Of Logs",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 19,
-    "tags": []
-  },
-  {
-    "uuid": "5dafcc89-bb50-4a89-a254-94be03396ab4",
-    "name": "Pink Sheep",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 6,
-    "tags": []
-  },
-  {
-    "uuid": "b1ed639a-7cd8-4a97-ab11-1bdf57ff042e",
-    "name": "Potted Azalea Plant",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 21,
-    "tags": []
-  },
-  {
-    "uuid": "bb40656a-761a-447b-9836-b9b253592386",
-    "name": "Potted Bush",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 25,
-    "tags": []
-  },
-  {
-    "uuid": "f592cb9c-42ac-4629-8b56-d422ea8f5637",
-    "name": "Potted Camellia Plant",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 23,
-    "tags": []
-  },
-  {
-    "uuid": "b1c5d900-74ed-49db-8a87-8e1a0193a47b",
-    "name": "Present",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 30,
-    "tags": []
-  },
-  {
-    "uuid": "0a6ca4dc-c66e-4299-9a74-0c1db3bcad3c",
-    "name": "Programmerdan",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "3aeef237-0de2-4632-b1b6-3506e1b01b71",
-    "name": "Pumpkin",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 20,
-    "tags": []
-  },
-  {
-    "uuid": "38a57de2-ced0-452e-9924-fb76ded7330b",
-    "name": "Radio",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 27,
-    "tags": []
-  },
-  {
-    "uuid": "e887bdf1-ef0c-4754-bd72-7495c09d2a33",
-    "name": "Rat",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 16,
-    "tags": []
-  },
-  {
-    "uuid": "ba420c44-c2e1-447f-ac40-9881ff067dca",
-    "name": "Reddevel",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "3c217f78-9728-45b7-8245-d56cdca088f4",
-    "name": "Roving Reggian Coral Grouper",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 8,
-    "tags": []
-  },
-  {
-    "uuid": "171cb150-80c6-42b1-a7f7-bfe982d37565",
-    "name": "Royal Sharkbun",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 20,
-    "tags": []
-  },
-  {
-    "uuid": "6a07a83a-4d7a-400e-b150-76c7989ba475",
-    "name": "Rubiks Cube",
-    "rarity": "Junk",
-    "price": 0,
+    "price": 2,
     "quantity": 32,
     "tags": []
   },
   {
-    "uuid": "3da0bcd0-e3e5-49c8-9c4a-7813f1cc4001",
-    "name": "Salerno Sea Bream",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "6ef8de13-d3a1-45c5-87fb-19b3d86aa18c",
-    "name": "Salmon Shark",
-    "rarity": "Rare",
-    "price": 0,
+    "uuid": "ee367827-20ce-4b7e-aa3b-8ce6ac5a36ba",
+    "name": "Wingzero54",
+    "rarity": "Player",
+    "price": 8,
     "quantity": 5,
     "tags": []
   },
   {
-    "uuid": "1669ab77-44d9-49f1-9538-8b68039a71ff",
-    "name": "Sandcastle",
+    "uuid": "6eb02595-d3f9-47cd-ad2d-e1baaddf57ad",
+    "name": "Wink Emoji",
     "rarity": "Junk",
-    "price": 0,
-    "quantity": 29,
+    "price": 2,
+    "quantity": 32,
     "tags": []
   },
   {
-    "uuid": "97e4fdfc-b3c2-4894-9fdd-a1f2d71704a7",
-    "name": "Sapling",
+    "uuid": "3e9ecb45-b0a9-4d44-886f-4f3fdd5cc247",
+    "name": "Winterbournian Orca",
     "rarity": "Nation",
-    "price": 0,
-    "quantity": 5,
-    "tags": []
-  },
-  {
-    "uuid": "9814a1cf-ca81-402e-933b-1a636afda0b7",
-    "name": "Scamfish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "c90e2ec8-fc34-4554-9d10-96c0f89db2c2",
-    "name": "Scarecrow Head",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 21,
-    "tags": []
-  },
-  {
-    "uuid": "fc01ca5e-1641-46e6-86cc-1e1b5e9c2b1c",
-    "name": "Seagull",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 22,
-    "tags": []
-  },
-  {
-    "uuid": "af4c7f75-03f6-46aa-ad16-d30db6842629",
-    "name": "Shark",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 17,
-    "tags": []
-  },
-  {
-    "uuid": "c27073e7-d037-4c9f-8942-e72fca82e987",
-    "name": "Shiny Pearl",
-    "rarity": "Legendary",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "c7eb85e3-907d-4369-b9de-056e674ea1a8",
-    "name": "Shiny Pearl",
-    "rarity": "Legendary",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "53504f9a-0a61-4f15-9292-bf849ff68431",
-    "name": "Shiny Pearl",
-    "rarity": "Legendary",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "83779500-9e1c-4ac9-8d8e-ce6329063f37",
-    "name": "Shiny Pearl",
-    "rarity": "Legendary",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "c836dd3d-1b78-4a74-b6d2-b58bbbdaf2bf",
-    "name": "Shiny Pearl",
-    "rarity": "Legendary",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "311270f6-bb2c-4b59-8a45-5161654ed9ab",
-    "name": "Shrimp",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 97,
-    "tags": []
-  },
-  {
-    "uuid": "542f208d-21a1-4a60-903d-194844f37f44",
-    "name": "Silver Jar",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 20,
-    "tags": []
-  },
-  {
-    "uuid": "b93d1426-bf5e-4c94-bc96-7c5a150130a4",
-    "name": "Skandic Ram",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 7,
-    "tags": []
-  },
-  {
-    "uuid": "835375a8-1240-446a-a976-700b5e34acf0",
-    "name": "Skull",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 31,
-    "tags": []
-  },
-  {
-    "uuid": "3d81692a-82ea-46e5-a5c9-f1f602c11ca6",
-    "name": "Slothistan Sloth",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "ef3755ae-0e2a-4cfa-b138-ccc086d154f9",
-    "name": "Snake",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 16,
-    "tags": []
-  },
-  {
-    "uuid": "ba1a0d79-0520-4c2d-9a91-2e1b5ad977a0",
-    "name": "Snom",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 11,
-    "tags": []
-  },
-  {
-    "uuid": "f7e8a6a2-6d7d-4efe-aba4-12b4b322ddca",
-    "name": "Snook",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 10,
-    "tags": []
-  },
-  {
-    "uuid": "48dc074f-b381-42bd-bdce-3bcac780334d",
-    "name": "Soul Jar",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 16,
-    "tags": []
-  },
-  {
-    "uuid": "6fe17a05-c8b1-4251-9d13-38e981c626af",
-    "name": "Soundtech",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "3252aef9-9c86-4449-b1e9-5ff68c9ad1fe",
-    "name": "Soup",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 23,
-    "tags": []
-  },
-  {
-    "uuid": "7d1bdc46-29c9-48de-8cc9-b3594c451916",
-    "name": "Spirit Of The Mercutie",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "444be76b-cfa4-4ca3-81e1-40f71ef678ad",
-    "name": "Steelhead Trout",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 11,
-    "tags": []
-  },
-  {
-    "uuid": "0bb2155f-19a3-4a01-8007-23ef89f446e3",
-    "name": "Sturgeon",
-    "rarity": "Rare",
-    "price": 0,
-    "quantity": 25,
-    "tags": []
-  },
-  {
-    "uuid": "721c856f-1e9d-40a1-8965-09f3404d869e",
-    "name": "Sugar Jar",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 16,
-    "tags": []
-  },
-  {
-    "uuid": "ee54bb75-6fc8-499b-b179-450fe0bbdf2b",
-    "name": "Sunfish Sanctum",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 4,
-    "tags": []
-  },
-  {
-    "uuid": "ab85d4ec-7c85-44f0-bcfe-3c566415e4f6",
-    "name": "Surmadri Aurora Starfish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "7cfe06d7-541e-463f-94c4-0b8d63118a1a",
-    "name": "Sushi",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 31,
-    "tags": []
-  },
-  {
-    "uuid": "5dec1340-3d43-450c-a83a-29b335c11e31",
-    "name": "Symbol",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "4d093950-ad96-45ad-820d-a87f44b342a8",
-    "name": "Symbol",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "7ecdb282-d87d-408c-ab0e-0059f908e7f1",
-    "name": "Symbol",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "6873b99d-e3df-42f8-841b-153cffabd9e6",
-    "name": "Symbol",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "2dfaa10f-b893-421d-b67a-58dd17039df9",
-    "name": "Symbol",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "ef0e5fb2-a1cd-4ecb-a6c1-e877cd87f9eb",
-    "name": "Symbol",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "35788e1f-f6aa-4a01-b799-deb6f0b40d45",
-    "name": "Symbol",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "c0814d34-e5c2-485a-b994-a26a7fcfb08b",
-    "name": "Symbol",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "3eeadeaf-fca1-4b09-85f2-a5e51a3cd3fa",
-    "name": "Symbol",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "7208b5b2-2dd8-47c5-a01d-2566f21d3467",
-    "name": "Symbol",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "8af3fe9a-d243-49ff-a776-ea426a1b952e",
-    "name": "Symbol",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "97473289-f62b-49a5-ba3c-16a123af6e0d",
-    "name": "Taco",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 18,
-    "tags": []
-  },
-  {
-    "uuid": "e2419764-c2da-4be1-ac0a-87e6be2271d3",
-    "name": "Tealnerd - Civclassics",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "e7664549-672d-4d10-9ada-8d45bad3e9e4",
-    "name": "Temporal Tuna",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "f0775bdf-978c-4530-972b-208e62011834",
-    "name": "Test Tubes",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 23,
-    "tags": []
-  },
-  {
-    "uuid": "8704f534-ed8c-436b-8861-0c46c21decf0",
-    "name": "The Iaumean Ghostfish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 9,
-    "tags": []
-  },
-  {
-    "uuid": "ab18bdcf-c8f9-4c1d-8cc0-cae92f0b750e",
-    "name": "The Voldi Stag",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "cef25cdd-931e-4fd7-ae26-ca0dc11bba73",
-    "name": "Thi Sang Present",
-    "rarity": "Nation",
-    "price": 0,
+    "price": 8,
     "quantity": 6,
     "tags": []
   },
   {
-    "uuid": "31de7eff-e5d2-47c4-a4ab-ed74ee8a870b",
-    "name": "Thymmy Crown",
+    "uuid": "40148d60-4ae6-42ae-98f1-c89a6af8d05c",
+    "name": "Withervalian Shrieking Eel",
     "rarity": "Nation",
-    "price": 0,
-    "quantity": 2,
+    "price": 6,
+    "quantity": 21,
     "tags": []
   },
   {
-    "uuid": "de0d7b8b-5b50-4e7a-b8a4-ed958b50595f",
-    "name": "Tnt",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 16,
-    "tags": []
-  },
-  {
-    "uuid": "e9b8378b-2241-4d4c-9309-02bcc56f896d",
-    "name": "Togoshigekata",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "37e48e6b-cb9c-44d6-8b78-e7365d8f87e8",
-    "name": "Toontown Cat Fish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "267e7f5b-a188-4880-89c1-b4c2f3b93c86",
-    "name": "Toontown Dog Fish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "6d1a4f42-36eb-4d79-8266-a8895bf1e530",
-    "name": "Toontown Jellybeans",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "3b5ade97-d0a5-49ea-88bb-700597ea2b17",
-    "name": "Tradespin",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "6115567e-ac39-4759-89b3-039b9b2d8d45",
-    "name": "Traffic Light",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "43aaf3b7-6d41-49a9-ac70-7e6144501351",
-    "name": "Traffic Light",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 4,
-    "tags": []
-  },
-  {
-    "uuid": "c9ca969c-b4f7-487d-b564-6634a82b7d4a",
-    "name": "Traffic Light",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "1aefc42c-12ff-48e7-913a-8fe1edc270a4",
-    "name": "Traffic Light",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "74e73319-6748-4b4a-863f-a4f4c90644b1",
-    "name": "Traffic Light",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "d870f227-fae8-4477-97ee-b82a072153dd",
-    "name": "Trash Can",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 22,
-    "tags": []
-  },
-  {
-    "uuid": "cb1856cb-fb70-48d5-8387-129c3b507101",
-    "name": "Trizzzx",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "c0e5e9fd-f516-4455-8d90-81111f343958",
-    "name": "Ttastic",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 4,
-    "tags": []
-  },
-  {
-    "uuid": "2ff6bb48-8fe0-478d-b5b6-88ef920dd264",
-    "name": "Ttk2",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 4,
-    "tags": []
-  },
-  {
-    "uuid": "af30614f-2e82-423d-8df8-5ef1c649eeef",
-    "name": "Tuna",
-    "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 22,
-    "tags": []
-  },
-  {
-    "uuid": "810cd536-ec96-42e3-bc40-40c3b6d31065",
-    "name": "Tutelle",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "7cee40bc-1d98-4d35-8620-6783289c52cf",
-    "name": "Verdan Sun Dragon Fish",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 16,
-    "tags": []
-  },
-  {
-    "uuid": "fce60454-f4b6-41a4-988b-b5775469c037",
-    "name": "Vinnish Helmet",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 2,
-    "tags": []
-  },
-  {
-    "uuid": "595d0a14-b9df-4a06-a788-b9a39de42cb2",
-    "name": "Volterran Rabid Beaver",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 19,
-    "tags": []
-  },
-  {
-    "uuid": "994366f2-d917-44ac-875d-05bd68eed7e6",
-    "name": "Volterran Rabid Beaver",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "68ed8790-d25b-419e-b6db-74feccf1f39b",
-    "name": "Voltuna",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 1,
-    "tags": []
-  },
-  {
-    "uuid": "d2001808-30fa-456d-ab2b-3654b9429255",
-    "name": "Warning Lamp",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 8,
-    "tags": []
-  },
-  {
-    "uuid": "f2d20ef3-0b17-4bc3-b000-0dbfe6d9c6d6",
-    "name": "Warning Lamp",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 7,
-    "tags": []
-  },
-  {
-    "uuid": "1eb5324e-d62e-4fa5-b8c7-ffc9020c3cfa",
-    "name": "Warning Lamp",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 8,
-    "tags": []
-  },
-  {
-    "uuid": "44d347d9-3311-4e18-8d37-f12b5dbe2c4b",
-    "name": "Water Basin",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 33,
-    "tags": []
-  },
-  {
-    "uuid": "0f811446-3e77-4a54-940b-bbd75d766fe3",
-    "name": "Wildberry Pie",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 20,
-    "tags": []
-  },
-  {
-    "uuid": "e21be6ca-c918-4cea-9e83-fbad333de938",
-    "name": "Wingzero54",
-    "rarity": "Player",
-    "price": 0,
-    "quantity": 5,
-    "tags": []
-  },
-  {
-    "uuid": "9d6d1e12-7cff-4dfe-b116-9c028f579738",
-    "name": "Wink Emoji",
-    "rarity": "Junk",
-    "price": 0,
-    "quantity": 27,
-    "tags": []
-  },
-  {
-    "uuid": "629bced0-a3e8-4e01-9f52-65049d108d7a",
-    "name": "Winterbournian Orca",
-    "rarity": "Nation",
-    "price": 0,
-    "quantity": 3,
-    "tags": []
-  },
-  {
-    "uuid": "65a502a7-b42b-441d-bbe0-8f81872ae016",
+    "uuid": "44246354-52a8-4e94-af19-73c63f5cffa1",
     "name": "Wjkroeker",
     "rarity": "Player",
-    "price": 0,
-    "quantity": 1,
+    "price": 8,
+    "quantity": 2,
     "tags": []
   },
   {
-    "uuid": "aa1782eb-0393-4e8f-ab37-654351717c22",
+    "uuid": "4ea0d9d2-62e4-4f6a-9887-09c789654204",
     "name": "Xolotl Effigy",
     "rarity": "Nation",
-    "price": 0,
-    "quantity": 3,
+    "price": 8,
+    "quantity": 6,
     "tags": []
   },
   {
-    "uuid": "fbed3d9a-1ab8-4c20-ab93-77428fb80b2e",
+    "uuid": "4367c791-ed3e-4224-a5bb-893f8a129887",
     "name": "Yellow Catfish",
     "rarity": "Uncommon",
-    "price": 0,
-    "quantity": 34,
+    "price": 2,
+    "quantity": 44,
     "tags": []
   },
   {
-    "uuid": "bf7d22ab-4e7f-44c7-85dd-6d74b039732c",
+    "uuid": "4097d25e-d63b-4414-aa9d-ead7c87add3b",
+    "name": "Yergo",
+    "rarity": "Player",
+    "price": 8,
+    "quantity": 2,
+    "tags": []
+  },
+  {
+    "uuid": "a1912943-0935-4cb6-857c-e08900a3cf8d",
     "name": "Yoahtlan Rainbow Pigeon",
     "rarity": "Nation",
-    "price": 0,
+    "price": 8,
     "quantity": 1,
     "tags": []
   },
   {
-    "uuid": "48a9e7bf-9479-4409-8d90-09618aadc1da",
+    "uuid": "50f39efc-c431-4f76-b8ed-2ab730a96151",
     "name": "Yukimin",
     "rarity": "Nation",
-    "price": 0,
+    "price": 8,
     "quantity": 1,
     "tags": []
   },
   {
-    "uuid": "6a21b3e9-f01e-4de2-a5f8-f192c322bccb",
+    "uuid": "c0df7b6c-3bf0-4a08-80c7-79bc759c3c58",
     "name": "Zombie Pigman",
     "rarity": "Junk",
-    "price": 0,
-    "quantity": 28,
+    "price": 3,
+    "quantity": 35,
     "tags": []
   },
   {
-    "uuid": "3fb7fcad-a2f2-4ef8-b49b-1e7310ea9541",
+    "uuid": "30f9acc4-59d9-471a-8476-55e79f6bccca",
     "name": "\ud835\udcd1\ud835\udcee\ud835\udcfb\ud835\udcfb\ud835\udd02 \ud835\udcd5\ud835\udcf2\ud835\udcfc\ud835\udcf1",
     "rarity": "Nation",
-    "price": 0,
-    "quantity": 3,
+    "price": 8,
+    "quantity": 5,
     "tags": []
   }
 ]
