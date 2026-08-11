@@ -25,7 +25,7 @@ interface ExchangeRate {
 export default function ExchangeRatesDrawer({ isOpen, closeFunc }: ExchangeRatesDrawerProps) {
   const exchangeRates: ExchangeRate[] = [
     { paperAmount: 1, resourceIcon: '/reliquary-ui/assets/iron_icon.png',    resourceName: 'Iron Ingot',  resourceAmount: 1 },
-    { paperAmount: 4, resourceIcon: '/reliquary-ui/assets/emerald_icon.png', resourceName: 'Emerald',     resourceAmount: 1 },
+    { paperAmount: 2, resourceIcon: '/reliquary-ui/assets/emerald_icon.png', resourceName: 'Emerald',     resourceAmount: 1 },
     { paperAmount: 8, resourceIcon: '/reliquary-ui/assets/diamond_icon.png', resourceName: 'Diamond',     resourceAmount: 1 },
   ]
 
