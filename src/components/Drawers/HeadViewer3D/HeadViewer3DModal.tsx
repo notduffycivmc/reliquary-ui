@@ -71,6 +71,7 @@ export default function HeadViewer3DModal({ isOpen, head, addFunc, closeFunc }: 
             left: '50%',
             transform: 'translateX(-50%)',
           }}
+          disabled={head.quantity === 0}
         >
           Add to Cart for ${head.price}
         </Button>

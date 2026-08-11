@@ -38,6 +38,7 @@ export default function AddToCartButton ({ head, addFunc }: { head: Head, addFun
               color: 'secondary.main', // Background color on hover
             },
           }}
+          disabled={head.quantity === 0}
         >
           <Typography variant='body2'>
             ${head.price}
